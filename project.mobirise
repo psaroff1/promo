@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 44,
+    "uniqCompNum": 46,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/1-1-600x600-128x128.png",
     "noImageResize": ""
@@ -178,7 +178,7 @@
           "_params": {
             "outside": false,
             "bgColor": "#252525",
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
