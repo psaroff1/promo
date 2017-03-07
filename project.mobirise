@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ФГБОУ ВДЦ",
-    "currentPage": "бригантина.html",
+    "currentPage": "Океан.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1191,7 +1191,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x13330.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x13336.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1549,7 +1549,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13331.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13337.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1561,7 +1561,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x13332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x13338.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -1572,7 +1572,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x13330.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x13336.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1583,7 +1583,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13331.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13337.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1595,7 +1595,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13331.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13337.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1607,7 +1607,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13331.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13337.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
