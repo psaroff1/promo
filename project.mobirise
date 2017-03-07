@@ -1,16 +1,16 @@
 {
   "settings": {
     "name": "ФГБОУ ВДЦ",
-    "currentPage": "Океан.html",
+    "currentPage": "бригантина.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 46,
+    "uniqCompNum": 68,
     "versionPublish": "3.11.1",
-    "favicon": "@PROJECT_PATH@/assets/images/1-1-600x600-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/128x85.png",
     "noImageResize": ""
   },
   "pages": {
@@ -36,11 +36,12 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#27aae0"
             },
-            ".mbr-navbar__section": {
-              "background": "#27aae0"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
             }
           },
           "_name": "ext.menu",
@@ -48,7 +49,7 @@
           "_params": {
             "color": "#27aae0",
             "hamburgerColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "collapsed": false,
             "logo": false,
@@ -76,9 +77,38 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ФГБОУ ВДЦ \"Океан\"</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">Английский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">Ктайский</a></li>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ФГБОУ ВДЦ \"Океан\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1c",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/unj-1400x356.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -88,8 +118,8 @@
           "_name": "slider",
           "_params": {
             "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "slides": [
               {
                 "active": false,
@@ -128,8 +158,9 @@
               {
                 "active": true,
                 "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "overlay": true,
+                "overlayOpacity": "0.1",
                 "showTitle": false,
                 "title": "Slide 1",
                 "showText": false,
@@ -162,11 +193,11 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "fullScreen": true,
+            "fullScreen": false,
             "bgColor": "#ffffff",
             "showBullets": false
           },
-          "_anchor": "slider-3",
+          "_anchor": "slider-1d",
           "articleLayout": false
         },
         {
@@ -202,15 +233,23 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#27aae0"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#27aae0"
+            }
+          },
           "_anchor": "features1-5",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/-1xxxhdpi-2000x509.png",
             "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -218,7 +257,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showHeader": false,
+            "showHeader": true,
             "showSubheader": false,
             "columns": 4,
             "showImages": true,
@@ -227,7 +266,7 @@
             "showButtons": true
           },
           "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "header": "Дружины и проекты",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -254,7 +293,7 @@
           },
           "title1": "Программа 2020<br><br><br><br><br><br>",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"2020.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">подробнее</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"2020.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">&nbsp;Подробнее</a>",
           "media2": {
             "image": {
               "active": true,
@@ -278,7 +317,7 @@
           },
           "title2": "Дружина \"Бригантина\"<br>",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"бригантина.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"бригантина.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media3": {
             "image": {
               "active": true,
@@ -302,7 +341,7 @@
           },
           "title3": "Дружина \"Эскадра\"",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"флотилия.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"флотилия.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media4": {
             "image": {
               "active": true,
@@ -326,7 +365,7 @@
           },
           "title4": "Летний комплекс \"Китенок - Тигренок\"",
           "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"китенок.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"китенок.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media5": {
             "image": {
               "active": true,
@@ -372,6 +411,87 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#27aae0"
+            }
+          },
+          "_anchor": "form1-1s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Оставить свой отзыв",
+          "form": {
+            "action": "dvgguru@mail.ru",
+            "alerts": {
+              "success": "Спасибо за отзыв!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Имя*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефо"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Написать сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text SPAN": {
+              "font-size": "16px",
+              "color": "#27aae0"
+            }
+          },
+          "_anchor": "social-buttons2-1r",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "<span style=\"font-weight: normal;\">следите за нами в соц. сетях</span>",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_anchor": "contacts1-7",
           "_params": {
@@ -388,7 +508,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -403,9 +523,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
         }
       ]
     },
@@ -415,6 +535,56 @@
         "meta_descr": "Web Page Generator Description"
       },
       "components": [
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1u",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Дружина «Бригантина»",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Дружина «Бригантина» – самая большая и самая взрослая из дружин Центра. Именно с её открытия начала вершиться история Всероссийского детского центра «Океан».<br></p><p>28 октября 1983 года, в канун празднования дня рождения Ленинского комсомола, состоялось открытие первой смены в истории Центра. На торжественной пионерской линейке в присутствии представителей ЦК ВЛКСМ, руководителей Приморского края, большого количества гостей бригадир треста «Жилстрой-1» вручил пионерам символический ключ от дружины «Бригантина».</p><p>В сентябре 2016 года после рабочего визита председатель Правительства РФ Ольга Голодец подготовила перечень поручений для министра образования и науки РФ Ольги Васильевой. Все эти поручения тесно связаны с развитием Центра. Отметив положительную динамику в реализации Программы развития ФГБОУ ВДЦ «Океан» на 2014–2020 годы, заместитель председателя Правительства РФ считает необходимым проработать вопрос о внесении изменений в Программу с учётом достигнутых результатов и поставленных задач. Одним из важных пунктов стала организация капитального ремонта дружины «Бригантина», который должен завершиться к 2020 году.</p><p>К 2020 году «Бригантина» преобразится и будет готова отправиться в образовательные путешествия. Каждый отряд будет иметь свой профиль: «Исследователи космоса», «Исследователи моря», «Знатоки-игротехники».</p><p>К 2020 году «Бригантина» преобразится и будет готова отправиться в образовательные путешествия. Каждый отряд будет иметь свой профиль: «Исследователи космоса», «Исследователи моря», «Знатоки-игротехники».</p><p><br></p><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -427,11 +597,12 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#27aae0"
             },
-            ".mbr-navbar__section": {
-              "background": "#27aae0"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
             }
           },
           "_name": "ext.menu",
@@ -439,7 +610,7 @@
           "_params": {
             "color": "#27aae0",
             "hamburgerColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "collapsed": false,
             "logo": false,
@@ -467,8 +638,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ФГБОУ ВДЦ \"Океан\"</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">Английский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">Ктайский</a></li>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ФГБОУ ВДЦ \"Океан\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -564,9 +735,56 @@
               "size": 0
             }
           },
-          "text1": "<strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1v",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "EASY TO USE!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         }
       ]
     },
@@ -588,11 +806,12 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#27aae0"
             },
-            ".mbr-navbar__section": {
-              "background": "#27aae0"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
             }
           },
           "_name": "ext.menu",
@@ -600,7 +819,7 @@
           "_params": {
             "color": "#27aae0",
             "hamburgerColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "collapsed": false,
             "logo": false,
@@ -628,8 +847,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ФГБОУ ВДЦ \"Океан\"</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">Английский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">Ктайский</a></li>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ФГБОУ ВДЦ \"Океан\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -725,9 +944,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
         }
       ]
     },
@@ -749,11 +968,12 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#27aae0"
             },
-            ".mbr-navbar__section": {
-              "background": "#27aae0"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
             }
           },
           "_name": "ext.menu",
@@ -761,7 +981,7 @@
           "_params": {
             "color": "#27aae0",
             "hamburgerColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "collapsed": false,
             "logo": false,
@@ -789,8 +1009,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ФГБОУ ВДЦ \"Океан\"</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">Английский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">Ктайский</a></li>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ФГБОУ ВДЦ \"Океан\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -886,9 +1106,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
         }
       ]
     },
@@ -913,11 +1133,12 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#27aae0"
             },
-            ".mbr-navbar__section": {
-              "background": "#27aae0"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
             }
           },
           "_name": "ext.menu",
@@ -925,7 +1146,7 @@
           "_params": {
             "color": "#27aae0",
             "hamburgerColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "collapsed": false,
             "logo": false,
@@ -953,8 +1174,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ФГБОУ ВДЦ \"Океан\"</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">Английский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">Ктайский</a></li>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ФГБОУ ВДЦ \"Океан\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -970,7 +1191,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x13330.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1243,9 +1464,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
         }
       ]
     },
@@ -1270,11 +1491,12 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#27aae0"
             },
-            ".mbr-navbar__section": {
-              "background": "#27aae0"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
             }
           },
           "_name": "ext.menu",
@@ -1282,7 +1504,7 @@
           "_params": {
             "color": "#27aae0",
             "hamburgerColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "collapsed": false,
             "logo": false,
@@ -1310,8 +1532,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ФГБОУ ВДЦ \"Океан\"</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">Английский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">Ктайский</a></li>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ФГБОУ ВДЦ \"Океан\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -1327,7 +1549,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13331.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1339,7 +1561,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x13332.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -1350,7 +1572,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x13330.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1361,7 +1583,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13331.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1373,7 +1595,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13331.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1385,7 +1607,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13331.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1637,9 +1859,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
         }
       ]
     },
@@ -1661,11 +1883,12 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#27aae0"
             },
-            ".mbr-navbar__section": {
-              "background": "#27aae0"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
             }
           },
           "_name": "ext.menu",
@@ -1673,7 +1896,7 @@
           "_params": {
             "color": "#27aae0",
             "hamburgerColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "collapsed": false,
             "logo": false,
@@ -1701,8 +1924,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ФГБОУ ВДЦ \"Океан\"</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">Английский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">Ктайский</a></li>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ФГБОУ ВДЦ \"Океан\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -1740,9 +1963,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
         }
       ]
     },
@@ -1764,11 +1987,12 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#27aae0"
             },
-            ".mbr-navbar__section": {
-              "background": "#27aae0"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
             }
           },
           "_name": "ext.menu",
@@ -1776,7 +2000,7 @@
           "_params": {
             "color": "#27aae0",
             "hamburgerColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "collapsed": false,
             "logo": false,
@@ -1804,8 +2028,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ФГБОУ ВДЦ \"Океан\"</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">Английский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">Ктайский</a></li>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ФГБОУ ВДЦ \"Океан\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -1843,9 +2067,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
         }
       ]
     }

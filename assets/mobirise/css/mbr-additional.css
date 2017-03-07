@@ -4,11 +4,38 @@
 #ext_menu-2.mbr-navbar--stuck .mbr-navbar__section {
   background: #27aae0;
 }
-#ext_menu-2 .mbr-navbar__section {
-  background: #27aae0;
-}
 #ext_menu-2 .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-2 .mbr-navbar__items a {
+  font-size: 15px;
+}
+#features1-5 .mbr-section__col .mbr-header__text {
+  color: #27aae0;
+}
+#features1-5 .mbr-section-title .mbr-header__text {
+  color: #27aae0;
+}
+#form1-1s .mbr-header__text {
+  color: #27aae0;
+}
+#social-buttons2-1r .mbr-header__text SPAN {
+  font-size: 16px;
+  color: #27aae0;
+}
+#content5-1u .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+}
+#content5-1u .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1u .mbr-article {
+  color: #fff;
+}
+#content5-1u .mbr-article P {
+  color: #000000;
 }
 #ext_menu-a .mbr-brand__name {
   font-size: 16px;
@@ -16,11 +43,22 @@
 #ext_menu-a.mbr-navbar--stuck .mbr-navbar__section {
   background: #27aae0;
 }
-#ext_menu-a .mbr-navbar__section {
-  background: #27aae0;
-}
 #ext_menu-a .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-a .mbr-navbar__items a {
+  font-size: 15px;
+}
+#content5-1v .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-1v .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1v .mbr-article {
+  color: #fff;
 }
 #ext_menu-c .mbr-brand__name {
   font-size: 16px;
@@ -28,11 +66,11 @@
 #ext_menu-c.mbr-navbar--stuck .mbr-navbar__section {
   background: #27aae0;
 }
-#ext_menu-c .mbr-navbar__section {
-  background: #27aae0;
-}
 #ext_menu-c .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-c .mbr-navbar__items a {
+  font-size: 15px;
 }
 #ext_menu-e .mbr-brand__name {
   font-size: 16px;
@@ -40,11 +78,11 @@
 #ext_menu-e.mbr-navbar--stuck .mbr-navbar__section {
   background: #27aae0;
 }
-#ext_menu-e .mbr-navbar__section {
-  background: #27aae0;
-}
 #ext_menu-e .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-e .mbr-navbar__items a {
+  font-size: 15px;
 }
 #ext_menu-p .mbr-brand__name {
   font-size: 16px;
@@ -52,11 +90,11 @@
 #ext_menu-p.mbr-navbar--stuck .mbr-navbar__section {
   background: #27aae0;
 }
-#ext_menu-p .mbr-navbar__section {
-  background: #27aae0;
-}
 #ext_menu-p .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-p .mbr-navbar__items a {
+  font-size: 15px;
 }
 #ext_menu-z .mbr-brand__name {
   font-size: 16px;
@@ -64,11 +102,11 @@
 #ext_menu-z.mbr-navbar--stuck .mbr-navbar__section {
   background: #27aae0;
 }
-#ext_menu-z .mbr-navbar__section {
-  background: #27aae0;
-}
 #ext_menu-z .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-z .mbr-navbar__items a {
+  font-size: 15px;
 }
 #ext_menu-14 .mbr-brand__name {
   font-size: 16px;
@@ -76,11 +114,11 @@
 #ext_menu-14.mbr-navbar--stuck .mbr-navbar__section {
   background: #27aae0;
 }
-#ext_menu-14 .mbr-navbar__section {
-  background: #27aae0;
-}
 #ext_menu-14 .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-14 .mbr-navbar__items a {
+  font-size: 15px;
 }
 #ext_menu-16 .mbr-brand__name {
   font-size: 16px;
@@ -88,9 +126,9 @@
 #ext_menu-16.mbr-navbar--stuck .mbr-navbar__section {
   background: #27aae0;
 }
-#ext_menu-16 .mbr-navbar__section {
-  background: #27aae0;
-}
 #ext_menu-16 .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-16 .mbr-navbar__items a {
+  font-size: 15px;
 }
