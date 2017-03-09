@@ -476,7 +476,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-600x6004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1-600x6005.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "китенок.html",
@@ -952,7 +952,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-600x6004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1-600x6005.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "китенок.html",
