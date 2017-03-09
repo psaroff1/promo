@@ -10,7 +10,7 @@
     "versionFirst": "3.11.1",
     "uniqCompNum": 95,
     "versionPublish": "3.11.1",
-    "favicon": "@PROJECT_PATH@/assets/images/128x85.png",
+    "favicon": "@PROJECT_PATH@/assets/images/-128x85.png",
     "noImageResize": ""
   },
   "pages": {
@@ -125,7 +125,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "image": "file:///Users/denis/Library/Application%20Support/Mobirise.com/Mobirise/projectData/bridge-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -137,7 +137,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x1333.jpg",
+                "image": "file:///Users/denis/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img-2510web-2000x1333.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -148,7 +148,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x1333.jpg",
+                "image": "file:///Users/denis/Library/Application%20Support/Mobirise.com/Mobirise/projectData/-mg-9599web-2000x1333.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -159,7 +159,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "image": "file:///Users/denis/Library/Application%20Support/Mobirise.com/Mobirise/projectData/bridge-2000x1333.jpg",
                 "contentAlign": "center",
                 "overlay": true,
                 "overlayOpacity": "0.1",
@@ -172,7 +172,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "image": "file:///Users/denis/Library/Application%20Support/Mobirise.com/Mobirise/projectData/bridge-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -184,7 +184,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "image": "file:///Users/denis/Library/Application%20Support/Mobirise.com/Mobirise/projectData/bridge-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -222,7 +222,7 @@
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-1xxxhdpi-2000x509.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%201xxxhdpi-2000x509.png",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -296,7 +296,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-1-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "флотилия.html",
@@ -320,7 +320,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "китенок.html",
@@ -481,7 +481,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-300-2-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_300%202-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -553,7 +553,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -780,7 +780,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-265x265.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -949,7 +949,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-265x265.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1116,7 +1116,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-265x265.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1221,7 +1221,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133360.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9599web-2000x1333.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1243,7 +1243,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/-mg-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/_mg-2000x1333.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1299,7 +1299,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-1xxxhdpi-2000x509.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%201xxxhdpi-2000x509.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1373,7 +1373,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-1-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1397,7 +1397,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1479,7 +1479,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-265x265.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1584,7 +1584,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133361.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1596,7 +1596,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x133362.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x1333.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -1607,7 +1607,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133360.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9599web-2000x1333.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1618,7 +1618,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133361.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1630,7 +1630,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133361.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1642,7 +1642,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133361.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1699,7 +1699,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-1xxxhdpi-2000x509.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%201xxxhdpi-2000x509.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1773,7 +1773,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-1-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1797,7 +1797,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1879,7 +1879,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-265x265.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1988,7 +1988,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-265x265.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2097,7 +2097,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-265x265.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2262,7 +2262,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2373,7 +2373,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
