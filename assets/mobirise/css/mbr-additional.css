@@ -11,7 +11,10 @@
   font-size: 16px;
 }
 #ext_menu-2.mbr-navbar--stuck .mbr-navbar__section {
-  background: #27aae0;
+  background: #ffffff;
+}
+#ext_menu-2 .mbr-navbar__section {
+  background: #ffffff;
 }
 #ext_menu-2 .mbr-navbar__hamburger {
   color: #27aae0;
@@ -21,6 +24,7 @@
 }
 #features1-5 .mbr-section__col .mbr-header__text {
   color: #27aae0;
+  text-align: center;
 }
 #features1-5 .mbr-section-title .mbr-header__text {
   color: #27aae0;
@@ -39,6 +43,10 @@
 }
 #social-buttons2-1r .mbr-header__text SPAN {
   font-size: 16px;
+  color: #27aae0;
+  text-align: center;
+}
+#contacts1-7 P {
   color: #27aae0;
 }
 #content5-1u .mbr-header .mbr-header__text {
@@ -59,7 +67,10 @@
   font-size: 16px;
 }
 #ext_menu-a.mbr-navbar--stuck .mbr-navbar__section {
-  background: #27aae0;
+  background: #ffffff;
+}
+#ext_menu-a .mbr-navbar__section {
+  background: #ffffff;
 }
 #ext_menu-a .mbr-navbar__hamburger {
   color: #27aae0;
@@ -67,17 +78,26 @@
 #ext_menu-a .mbr-navbar__items a {
   font-size: 15px;
 }
+#contacts1-b P {
+  color: #27aae0;
+}
 #ext_menu-c .mbr-brand__name {
   font-size: 16px;
 }
 #ext_menu-c.mbr-navbar--stuck .mbr-navbar__section {
-  background: #27aae0;
+  background: #ffffff;
+}
+#ext_menu-c .mbr-navbar__section {
+  background: #ffffff;
 }
 #ext_menu-c .mbr-navbar__hamburger {
   color: #27aae0;
 }
 #ext_menu-c .mbr-navbar__items a {
   font-size: 15px;
+}
+#contacts1-d P {
+  color: #27aae0;
 }
 #ext_menu-e .mbr-brand__name {
   font-size: 16px;
@@ -91,6 +111,9 @@
 #ext_menu-e .mbr-navbar__items a {
   font-size: 15px;
 }
+#contacts1-f P {
+  color: #27aae0;
+}
 #ext_menu-p .mbr-brand__name {
   font-size: 16px;
 }
@@ -102,6 +125,9 @@
 }
 #ext_menu-p .mbr-navbar__items a {
   font-size: 15px;
+}
+#contacts1-t P {
+  color: #27aae0;
 }
 #ext_menu-z .mbr-brand__name {
   font-size: 16px;
@@ -115,6 +141,9 @@
 #ext_menu-z .mbr-navbar__items a {
   font-size: 15px;
 }
+#contacts1-13 P {
+  color: #27aae0;
+}
 #ext_menu-14 .mbr-brand__name {
   font-size: 16px;
 }
@@ -126,6 +155,9 @@
 }
 #ext_menu-14 .mbr-navbar__items a {
   font-size: 15px;
+}
+#contacts1-15 P {
+  color: #27aae0;
 }
 #ext_menu-16 .mbr-brand__name {
   font-size: 16px;
@@ -139,17 +171,29 @@
 #ext_menu-16 .mbr-navbar__items a {
   font-size: 15px;
 }
+#contacts1-17 P {
+  color: #27aae0;
+}
 #ext_menu-1x .mbr-brand__name {
   font-size: 16px;
 }
 #ext_menu-1x.mbr-navbar--stuck .mbr-navbar__section {
-  background: #27aae0;
+  background: #ffffff;
+}
+#ext_menu-1x .mbr-navbar__section {
+  background: #ffffff;
 }
 #ext_menu-1x .mbr-navbar__hamburger {
   color: #27aae0;
 }
 #ext_menu-1x .mbr-navbar__items a {
   font-size: 15px;
+}
+#form1-20 .mbr-header__text {
+  color: #27aae0;
+}
+#contacts1-1y P {
+  color: #27aae0;
 }
 
 
@@ -164,13 +208,19 @@
   font-size: 16px;
 }
 #ext_menu-23.mbr-navbar--stuck .mbr-navbar__section {
-  background: #27aae0;
+  background: #ffffff;
+}
+#ext_menu-23 .mbr-navbar__section {
+  background: #ffffff;
 }
 #ext_menu-23 .mbr-navbar__hamburger {
   color: #27aae0;
 }
 #ext_menu-23 .mbr-navbar__items a {
   font-size: 15px;
+}
+#contacts1-24 P {
+  color: #27aae0;
 }
 #content1-27 P {
   font-family: 'Lato', sans-serif;
