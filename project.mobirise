@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 68,
+    "uniqCompNum": 73,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/128x85.png",
     "noImageResize": ""
@@ -199,34 +199,6 @@
           },
           "_anchor": "slider-1d",
           "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-4",
-          "_params": {
-            "outside": false,
-            "bgColor": "#252525",
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "https://youtu.be/C8D7gc-faLU",
-              "aspectratio": "4:3",
-              "autoplay": "on",
-              "loop": "on",
-              "active": true
-            }
-          },
-          "text": ""
         },
         {
           "_tags": [
@@ -460,6 +432,75 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1w",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#27aae0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-1-1-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "ДиректорВДЦ \"Океан \"<br>Андрей Базилевский",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Вопрос.html\" data-toolbar=\"-mbrBtnMove\">Задать вопрос дтректору</a>  "
         },
         {
           "_tags": [
@@ -1191,7 +1232,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x13330.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x13339.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1549,7 +1590,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13331.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133310.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1561,7 +1602,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x13332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x133311.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -1572,7 +1613,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x13330.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x13339.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1583,7 +1624,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13331.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133310.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1595,7 +1636,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13331.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133310.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1607,7 +1648,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x13331.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133310.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -2053,6 +2094,159 @@
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/1-265x265.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
+        }
+      ]
+    },
+    "Вопрос.html": {
+      "settings": {
+        "title": "Site Generator Title",
+        "meta_descr": "Site Generator Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#27aae0"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1x",
+          "_params": {
+            "color": "#27aae0",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1-128x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://okean.org",
+              "size": 0,
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ФГБОУ ВДЦ \"Океан\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"китайский.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"английский.html\">English</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-20",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#27aae0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Задать вопрос",
+          "form": {
+            "action": "dvgguru@mail.ru",
+            "alerts": {
+              "success": "Спасибо за вопрос"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Имя*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": false,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Вашь вопрос"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1y",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
