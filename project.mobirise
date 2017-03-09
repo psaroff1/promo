@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "ФГБОУ ВДЦ",
-    "currentPage": "page9.html",
+    "currentPage": "Океан.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 92,
+    "uniqCompNum": 93,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/128x85.png",
     "noImageResize": ""
@@ -567,6 +567,14 @@
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Website builder</li><li>Download for Windows</li><li>Download for Mac</li></ul><p><br></p><p><br></p><p>Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2k",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;выбрать шрифт</a> "
         }
       ]
     },
@@ -1185,7 +1193,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x13339.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133312.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1543,7 +1551,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133310.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133313.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1555,7 +1563,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x133311.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x133314.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -1566,7 +1574,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x13339.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133312.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1577,7 +1585,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133310.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133313.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1589,7 +1597,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133310.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133313.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1601,7 +1609,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133310.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133313.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
