@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ФГБОУ ВДЦ",
-    "currentPage": "page9.html",
+    "currentPage": "флотилия.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -17,8 +17,8 @@
     "Океан.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -580,8 +580,8 @@
     },
     "бригантина.html": {
       "settings": {
-        "title": "Web Page Generator Title",
-        "meta_descr": "Web Page Generator Description"
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
       },
       "components": [
         {
@@ -648,7 +648,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#27aae0"
             },
             ".mbr-navbar__items a": {
               "font-size": "15px"
@@ -792,8 +792,8 @@
     },
     "китенок.html": {
       "settings": {
-        "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description"
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
       },
       "components": [
         {
@@ -810,7 +810,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#27aae0"
             },
             ".mbr-navbar__items a": {
               "font-size": "15px"
@@ -954,8 +954,8 @@
     },
     "флотилия.html": {
       "settings": {
-        "title": "Web Page Generator Title",
-        "meta_descr": "Web Page Generator Description"
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
       },
       "components": [
         {
@@ -972,7 +972,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#27aae0"
             },
             ".mbr-navbar__items a": {
               "font-size": "15px"
@@ -1116,8 +1116,8 @@
     },
     "английский.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1137,7 +1137,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#27aae0"
             },
             ".mbr-navbar__items a": {
               "font-size": "15px"
@@ -1193,7 +1193,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133318.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133327.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1474,8 +1474,8 @@
     },
     "китайский.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1495,7 +1495,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#27aae0"
             },
             ".mbr-navbar__items a": {
               "font-size": "15px"
@@ -1551,7 +1551,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133319.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133328.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1563,7 +1563,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x133320.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x133329.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -1574,7 +1574,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133318.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133327.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1585,7 +1585,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133319.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133328.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1597,7 +1597,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133319.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133328.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1609,7 +1609,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133319.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133328.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1869,8 +1869,8 @@
     },
     "page6.html": {
       "settings": {
-        "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description"
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
       },
       "components": [
         {
@@ -1887,7 +1887,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#27aae0"
             },
             ".mbr-navbar__items a": {
               "font-size": "15px"
@@ -1973,8 +1973,8 @@
     },
     "2020.html": {
       "settings": {
-        "title": "Web Site Creator Title",
-        "meta_descr": "Web Site Creator Description"
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
       },
       "components": [
         {
@@ -1991,7 +1991,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#27aae0"
             },
             ".mbr-navbar__items a": {
               "font-size": "15px"
@@ -2077,8 +2077,8 @@
     },
     "Вопрос.html": {
       "settings": {
-        "title": "Site Generator Title",
-        "meta_descr": "Site Generator Description"
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
       },
       "components": [
         {
@@ -2095,7 +2095,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#27aae0"
             },
             ".mbr-navbar__items a": {
               "font-size": "15px"
@@ -2230,8 +2230,8 @@
     },
     "page9.html": {
       "settings": {
-        "title": "Web Site Maker Title",
-        "meta_descr": "Web Site Maker Description"
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
       },
       "components": [
         {
