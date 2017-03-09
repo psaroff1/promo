@@ -34,10 +34,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".mbr-navbar__hamburger": {
               "color": "#27aae0"
@@ -49,7 +49,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2",
           "_params": {
-            "color": "#ffffff",
+            "color": "#efefef",
             "hamburgerColor": "#27aae0",
             "transparent": false,
             "sticky": true,
@@ -668,7 +668,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-a",
           "_params": {
-            "color": "#ffffff",
+            "color": "#efefef",
             "hamburgerColor": "#27aae0",
             "transparent": false,
             "sticky": true,
@@ -837,7 +837,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-c",
           "_params": {
-            "color": "#ffffff",
+            "color": "#efefef",
             "hamburgerColor": "#27aae0",
             "transparent": false,
             "sticky": true,
@@ -1004,7 +1004,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-e",
           "_params": {
-            "color": "#ffffff",
+            "color": "#efefef",
             "hamburgerColor": "#27aae0",
             "transparent": false,
             "sticky": true,
@@ -1174,7 +1174,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-p",
           "_params": {
-            "color": "#ffffff",
+            "color": "#efefef",
             "hamburgerColor": "#27aae0",
             "transparent": false,
             "sticky": true,
@@ -1221,7 +1221,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133354.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133360.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1537,7 +1537,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-z",
           "_params": {
-            "color": "#ffffff",
+            "color": "#efefef",
             "hamburgerColor": "#27aae0",
             "transparent": false,
             "sticky": true,
@@ -1584,7 +1584,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133355.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133361.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1596,7 +1596,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x133356.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x133362.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -1607,7 +1607,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133354.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133360.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1618,7 +1618,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133355.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133361.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1630,7 +1630,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133355.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133361.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1642,7 +1642,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133355.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133361.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1934,7 +1934,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-14",
           "_params": {
-            "color": "#ffffff",
+            "color": "#efefef",
             "hamburgerColor": "#27aae0",
             "transparent": false,
             "sticky": true,
@@ -2043,7 +2043,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-16",
           "_params": {
-            "color": "#ffffff",
+            "color": "#efefef",
             "hamburgerColor": "#27aae0",
             "transparent": false,
             "sticky": true,
@@ -2154,7 +2154,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1x",
           "_params": {
-            "color": "#ffffff",
+            "color": "#efefef",
             "hamburgerColor": "#27aae0",
             "transparent": false,
             "sticky": true,
@@ -2304,10 +2304,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".mbr-navbar__hamburger": {
               "color": "#27aae0"
@@ -2319,7 +2319,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-23",
           "_params": {
-            "color": "#ffffff",
+            "color": "#efefef",
             "hamburgerColor": "#27aae0",
             "transparent": false,
             "sticky": true,
