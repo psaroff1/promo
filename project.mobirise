@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ФГБОУ ВДЦ",
-    "currentPage": "бригантина.html",
+    "currentPage": "Океан.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -440,7 +440,7 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#27aae0"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -453,12 +453,12 @@
           "_anchor": "msg-box4-1w",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 3,
+            "paddingTop": "0",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#27aae0",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -500,7 +500,7 @@
           "title": "ДиректорВДЦ \"Океан \"<br>Андрей Базилевский",
           "meta": "By John Smith posted July 30, 2015",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Вопрос.html\" data-toolbar=\"-mbrBtnMove\">Задать вопрос дтректору</a>  "
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"Вопрос.html\" data-toolbar=\"-mbrBtnMove\">Задать вопрос директору</a>  "
         },
         {
           "_tags": [
@@ -1185,7 +1185,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133327.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133330.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1543,7 +1543,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133328.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133331.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1555,7 +1555,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x133329.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x133332.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -1566,7 +1566,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133327.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133330.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1577,7 +1577,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133328.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133331.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1589,7 +1589,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133328.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133331.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1601,7 +1601,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133328.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133331.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
