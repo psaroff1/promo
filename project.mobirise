@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ФГБОУ ВДЦ",
-    "currentPage": "Океан.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -38,7 +38,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#27aae0"
             },
             ".mbr-navbar__items a": {
               "font-size": "15px"
@@ -48,7 +48,7 @@
           "_anchor": "ext_menu-2",
           "_params": {
             "color": "#27aae0",
-            "hamburgerColor": "#ffffff",
+            "hamburgerColor": "#27aae0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -658,7 +658,7 @@
           "_anchor": "ext_menu-a",
           "_params": {
             "color": "#27aae0",
-            "hamburgerColor": "#ffffff",
+            "hamburgerColor": "#27aae0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -820,7 +820,7 @@
           "_anchor": "ext_menu-c",
           "_params": {
             "color": "#27aae0",
-            "hamburgerColor": "#ffffff",
+            "hamburgerColor": "#27aae0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -982,7 +982,7 @@
           "_anchor": "ext_menu-e",
           "_params": {
             "color": "#27aae0",
-            "hamburgerColor": "#ffffff",
+            "hamburgerColor": "#27aae0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -1147,7 +1147,7 @@
           "_anchor": "ext_menu-p",
           "_params": {
             "color": "#27aae0",
-            "hamburgerColor": "#ffffff",
+            "hamburgerColor": "#27aae0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -1193,7 +1193,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133312.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133318.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1505,7 +1505,7 @@
           "_anchor": "ext_menu-z",
           "_params": {
             "color": "#27aae0",
-            "hamburgerColor": "#ffffff",
+            "hamburgerColor": "#27aae0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -1551,7 +1551,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133313.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133319.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1563,7 +1563,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x133314.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x133320.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -1574,7 +1574,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133312.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133318.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1585,7 +1585,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133313.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133319.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1597,7 +1597,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133313.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133319.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1609,7 +1609,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133313.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133319.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1897,7 +1897,7 @@
           "_anchor": "ext_menu-14",
           "_params": {
             "color": "#27aae0",
-            "hamburgerColor": "#ffffff",
+            "hamburgerColor": "#27aae0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -2001,7 +2001,7 @@
           "_anchor": "ext_menu-16",
           "_params": {
             "color": "#27aae0",
-            "hamburgerColor": "#ffffff",
+            "hamburgerColor": "#27aae0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -2105,7 +2105,7 @@
           "_anchor": "ext_menu-1x",
           "_params": {
             "color": "#27aae0",
-            "hamburgerColor": "#ffffff",
+            "hamburgerColor": "#27aae0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -2248,7 +2248,7 @@
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#27aae0"
             },
             ".mbr-navbar__items a": {
               "font-size": "15px"
@@ -2258,7 +2258,7 @@
           "_anchor": "ext_menu-23",
           "_params": {
             "color": "#27aae0",
-            "hamburgerColor": "#ffffff",
+            "hamburgerColor": "#27aae0",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -2343,14 +2343,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2i",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
           "_anchor": "content1-27",
           "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю</p>",
           "_styles": {
@@ -2359,14 +2351,6 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2j",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         },
         {
           "_tags": [
