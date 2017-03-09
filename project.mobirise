@@ -252,7 +252,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x9160.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x9162.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "бригантина.html",
@@ -324,7 +324,7 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x9161.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x9163.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "парус.html",
@@ -780,8 +780,8 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "<span style=\"font-weight: normal;\">следите за нами в соц. сетях</span>",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" href=\"твит.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" href=\"файс.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" href=\"ютюб.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"инстаграм.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "text": "<span style=\"font-weight: normal;\">Следите за нами в соц. сетях</span>",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" href=\"твит.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" href=\"файс.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" href=\"ютюб.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" href=\"инстаграм.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "_tags": [
@@ -827,7 +827,7 @@
             }
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         },
         {
@@ -1082,7 +1082,7 @@
             }
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -1258,7 +1258,7 @@
             }
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -1562,7 +1562,7 @@
             }
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -1733,7 +1733,7 @@
             }
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -1909,7 +1909,7 @@
             }
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -2085,7 +2085,7 @@
             }
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -2261,7 +2261,7 @@
             }
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -2437,7 +2437,7 @@
             }
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -2613,7 +2613,7 @@
             }
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -2789,7 +2789,7 @@
             }
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -2934,7 +2934,7 @@
             }
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -3079,7 +3079,7 @@
             }
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -3224,7 +3224,7 @@
             }
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -3369,7 +3369,7 @@
             }
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
