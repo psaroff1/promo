@@ -1185,7 +1185,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133336.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1543,7 +1543,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133334.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133337.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1555,7 +1555,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x133335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x133338.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -1566,7 +1566,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x133336.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -1577,7 +1577,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133334.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133337.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1589,7 +1589,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133334.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133337.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
@@ -1601,7 +1601,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133334.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x133337.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": false,
