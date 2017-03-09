@@ -70,12 +70,13 @@
 #social-buttons2-1r .mbr-header__text SPAN {
   font-size: 14px;
   color: #27aae0;
-  text-align: center;
+  text-align: right;
   font-family: 'Roboto Slab', serif;
 }
 #contacts1-7 P {
   color: #27aae0;
   font-family: 'Roboto Slab', serif;
+  font-size: 13px;
 }
 
 
@@ -109,9 +110,10 @@
 #ext_menu-a .mbr-brand__name a {
   font-size: 20px;
 }
-#contacts1-b P {
+#contacts1-7 P {
   color: #27aae0;
   font-family: 'Roboto Slab', serif;
+  font-size: 13px;
 }
 
 
@@ -131,9 +133,10 @@
 #ext_menu-c .mbr-brand__name a {
   font-size: 20px;
 }
-#contacts1-d P {
+#contacts1-7 P {
   color: #27aae0;
   font-family: 'Roboto Slab', serif;
+  font-size: 13px;
 }
 
 
@@ -153,9 +156,10 @@
 #ext_menu-e .mbr-brand__name a {
   font-size: 20px;
 }
-#contacts1-f P {
+#contacts1-7 P {
   color: #27aae0;
   font-family: 'Roboto Slab', serif;
+  font-size: 13px;
 }
 
 
@@ -304,4 +308,41 @@
 #contacts1-36 P {
   color: #27aae0;
   font-family: 'Roboto Slab', serif;
+}
+
+
+#content5-3x .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+}
+#content5-3x .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-3x .mbr-article {
+  color: #fff;
+}
+#content5-3x .mbr-article P {
+  color: #000000;
+}
+#ext_menu-3y .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-3y.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-3y .mbr-navbar__hamburger {
+  color: #27aae0;
+}
+#ext_menu-3y .mbr-navbar__items a {
+  font-size: 20px;
+  font-family: 'Roboto Slab', serif;
+}
+#ext_menu-3y .mbr-brand__name a {
+  font-size: 20px;
+}
+#contacts1-40 P {
+  color: #27aae0;
+  font-family: 'Roboto Slab', serif;
+  font-size: 13px;
 }

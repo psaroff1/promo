@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 141,
+    "uniqCompNum": 145,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/128x85.png",
     "noImageResize": ""
@@ -761,7 +761,7 @@
             ".mbr-header__text SPAN": {
               "font-size": "14px",
               "color": "#27aae0",
-              "text-align": "center",
+              "text-align": "right",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
             }
@@ -791,7 +791,8 @@
             "P": {
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
             }
           },
           "_anchor": "contacts1-7",
@@ -824,8 +825,8 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         },
         {
@@ -1044,13 +1045,14 @@
             "P": {
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
             }
           },
-          "_anchor": "contacts1-b",
+          "_anchor": "contacts1-7",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1062,11 +1064,11 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "Океан.html",
+              "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1077,8 +1079,8 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -1218,13 +1220,14 @@
             "P": {
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
             }
           },
-          "_anchor": "contacts1-d",
+          "_anchor": "contacts1-7",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1236,7 +1239,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1251,8 +1254,8 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -1392,13 +1395,14 @@
             "P": {
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
             }
           },
-          "_anchor": "contacts1-f",
+          "_anchor": "contacts1-7",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1410,7 +1414,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1425,8 +1429,8 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -1727,8 +1731,8 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -1897,8 +1901,8 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
@@ -2439,8 +2443,8 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         },
         {
@@ -3046,8 +3050,8 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         },
         {
@@ -3114,6 +3118,231 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
+      },
+      "components": [
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-3x",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Дружина «Бригантина»",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Дружина «Бригантина» – самая большая и самая взрослая из дружин Центра. Именно с её открытия начала вершиться история Всероссийского детского центра «Океан».<br></p><p>28 октября 1983 года, в канун празднования дня рождения Ленинского комсомола, состоялось открытие первой смены в истории Центра. На торжественной пионерской линейке в присутствии представителей ЦК ВЛКСМ, руководителей Приморского края, большого количества гостей бригадир треста «Жилстрой-1» вручил пионерам символический ключ от дружины «Бригантина».</p><p>В сентябре 2016 года после рабочего визита председатель Правительства РФ Ольга Голодец подготовила перечень поручений для министра образования и науки РФ Ольги Васильевой. Все эти поручения тесно связаны с развитием Центра. Отметив положительную динамику в реализации Программы развития ФГБОУ ВДЦ «Океан» на 2014–2020 годы, заместитель председателя Правительства РФ считает необходимым проработать вопрос о внесении изменений в Программу с учётом достигнутых результатов и поставленных задач. Одним из важных пунктов стала организация капитального ремонта дружины «Бригантина», который должен завершиться к 2020 году.</p><p>К 2020 году «Бригантина» преобразится и будет готова отправиться в образовательные путешествия. Каждый отряд будет иметь свой профиль: «Исследователи космоса», «Исследователи моря», «Знатоки-игротехники».</p><p>К 2020 году «Бригантина» преобразится и будет готова отправиться в образовательные путешествия. Каждый отряд будет иметь свой профиль: «Исследователи космоса», «Исследователи моря», «Знатоки-игротехники».</p><p><br></p><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#27aae0"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "20px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "20px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3y",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#27aae0",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1-128x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://okean.org",
+              "size": 0,
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ФГБОУ ВДЦ \"Океан\"</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide1-small.jpg",
+                "image": "images/slide1.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide2-small.jpg",
+                "image": "images/slide2.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide3-small.jpg",
+                "image": "images/slide3.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide4-small.jpg",
+                "image": "images/slide4.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide5-small.jpg",
+                "image": "images/slide5.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide6-small.jpg",
+                "image": "images/slide6.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide8-small.jpg",
+                "image": "images/slide8.jpg"
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-3z",
+          "articleLayout": true
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-40",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
     }
