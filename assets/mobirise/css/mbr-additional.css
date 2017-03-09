@@ -26,6 +26,13 @@
 #features1-5 .mbr-section-title .mbr-header__text {
   color: #27aae0;
 }
+#features1-3k .mbr-section__col .mbr-header__text {
+  color: #27aae0;
+  text-align: center;
+}
+#features1-3k .mbr-section-title .mbr-header__text {
+  color: #27aae0;
+}
 #form1-1s .mbr-header__text {
   color: #27aae0;
 }

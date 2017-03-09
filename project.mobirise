@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "ФГБОУ ВДЦ",
-    "currentPage": "китай.html",
+    "currentPage": "Океан.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 128,
+    "uniqCompNum": 129,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/128x85.png",
     "noImageResize": ""
@@ -190,7 +190,7 @@
           "_anchor": "features1-5",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%201xxxhdpi-2000x509.png",
@@ -205,7 +205,7 @@
             "overlayColor": "#222",
             "showHeader": true,
             "showSubheader": false,
-            "columns": "4",
+            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
@@ -217,7 +217,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/growth-a9042d36e92dbf63d04cf902a35dd6a533b6ae20069537bdd457c46e07894078-600x416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/team-600x600.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "2020.html",
@@ -237,7 +237,7 @@
               "size": 0
             }
           },
-          "title1": "<br><br><br><br><span style=\"font-family: inherit; line-height: 1.1em;\">Программа 2020</span><br><br><br>",
+          "title1": "Дружина&nbsp;<br>\"Галактика\"<br><br>",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"2020.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">&nbsp;Подробнее</a>",
           "media2": {
@@ -310,6 +310,190 @@
             }
           },
           "title4": "Летний комплекс \"Китенок - Тигренок\"",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"китенок.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/team-1-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "Дружина - флотилия<br>\"Парус\"<br>",
+          "caption5": "",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#27aae0",
+              "text-align": "center"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#27aae0"
+            }
+          },
+          "_anchor": "features1-3k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///Users/denis/Library/Application%20Support/Mobirise.com/Mobirise/projectData/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%201xxxhdpi-2000x509.png",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": false,
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/growth-a9042d36e92dbf63d04cf902a35dd6a533b6ae20069537bdd457c46e07894078-600x416.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "2020.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<br><br><br><br><span style=\"font-family: inherit; line-height: 1.1em;\">Программа 2020</span><br><br><br>",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"2020.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">&nbsp;Подробнее</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/briga-600x6000.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "бригантина.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Школа<br><br>",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"бригантина.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-1-600x6001.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "флотилия.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Спорт<br><br>",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"флотилия.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-600x6002.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "китенок.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Школа добра",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"китенок.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media5": {
@@ -509,10 +693,15 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0"
+            }
+          },
           "_anchor": "contacts1-7",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -541,48 +730,7 @@
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>",
-          "_styles": {
-            "P": {
-              "color": "#27aae0"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-2n",
-          "_params": {
-            "outside": false,
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-ge-1400x261.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-2k",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;выбрать шрифт</a> "
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         },
         {
           "_tags": [
@@ -793,6 +941,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0"
+            }
+          },
           "_anchor": "contacts1-b",
           "_params": {
             "paddingTop": "0",
@@ -825,12 +978,7 @@
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>",
-          "_styles": {
-            "P": {
-              "color": "#27aae0"
-            }
-          }
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
     },
@@ -962,6 +1110,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0"
+            }
+          },
           "_anchor": "contacts1-d",
           "_params": {
             "paddingTop": "0",
@@ -994,12 +1147,7 @@
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>",
-          "_styles": {
-            "P": {
-              "color": "#27aae0"
-            }
-          }
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
     },
@@ -1129,6 +1277,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0"
+            }
+          },
           "_anchor": "contacts1-f",
           "_params": {
             "paddingTop": "0",
@@ -1161,12 +1314,7 @@
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>",
-          "_styles": {
-            "P": {
-              "color": "#27aae0"
-            }
-          }
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
     },
@@ -1238,6 +1386,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0"
+            }
+          },
           "_anchor": "contacts1-15",
           "_params": {
             "paddingTop": "0",
@@ -1270,12 +1423,7 @@
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>",
-          "_styles": {
-            "P": {
-              "color": "#27aae0"
-            }
-          }
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
     },
@@ -1347,6 +1495,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0"
+            }
+          },
           "_anchor": "contacts1-17",
           "_params": {
             "paddingTop": "0",
@@ -1379,12 +1532,7 @@
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>",
-          "_styles": {
-            "P": {
-              "color": "#27aae0"
-            }
-          }
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
     },
@@ -1458,6 +1606,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#27aae0"
+            }
+          },
           "_anchor": "form1-20",
           "_params": {
             "paddingTop": 3,
@@ -1500,18 +1653,18 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#27aae0"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0"
+            }
+          },
           "_anchor": "contacts1-1y",
           "_params": {
             "paddingTop": "0",
@@ -1544,12 +1697,7 @@
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>",
-          "_styles": {
-            "P": {
-              "color": "#27aae0"
-            }
-          }
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         }
       ]
     },
@@ -1621,6 +1769,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0"
+            }
+          },
           "_anchor": "contacts1-24",
           "_params": {
             "paddingTop": "0",
@@ -1653,12 +1806,7 @@
           },
           "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: support@Океан.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>",
-          "_styles": {
-            "P": {
-              "color": "#27aae0"
-            }
-          }
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
         },
         {
           "_tags": [
@@ -1673,126 +1821,126 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-27",
-          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю</p>",
           "_styles": {
             "P": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
-          }
+          },
+          "_anchor": "content1-27",
+          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-29",
-          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю</p>",
           "_styles": {
             "P": {
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
-          }
+          },
+          "_anchor": "content1-29",
+          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2a",
-          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю</p>",
           "_styles": {
             "P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
-          }
+          },
+          "_anchor": "content1-2a",
+          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2b",
-          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю</p>",
           "_styles": {
             "P": {
               "font-family": "'Source Sans Pro', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
             }
-          }
+          },
+          "_anchor": "content1-2b",
+          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2d",
-          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю.</p>",
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
-          }
+          },
+          "_anchor": "content1-2d",
+          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю.</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2e",
-          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю.</p>",
           "_styles": {
             "P": {
               "font-family": "'Droid Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
             }
-          }
+          },
+          "_anchor": "content1-2e",
+          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю.</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2f",
-          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю</p>",
           "_styles": {
             "P": {
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
             }
-          }
+          },
+          "_anchor": "content1-2f",
+          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2g",
-          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю</p>",
           "_styles": {
             "P": {
               "font-family": "'PT Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700"
             }
-          }
+          },
+          "_anchor": "content1-2g",
+          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2h",
-          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю</p>",
           "_styles": {
             "P": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
-          }
+          },
+          "_anchor": "content1-2h",
+          "text": "<p>съешь ещё этих мягких французских булок, да выпей чаю</p>"
         }
       ]
     },
@@ -1998,7 +2146,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/growth-a9042d36e92dbf63d04cf902a35dd6a533b6ae20069537bdd457c46e07894078-600x416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/growth-a9042d36e92dbf63d04cf902a35dd6a533b6ae20069537bdd457c46e07894078-600x4163.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "2020.html",
@@ -2298,7 +2446,7 @@
           "_anchor": "contacts1-2w",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -2598,7 +2746,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/growth-a9042d36e92dbf63d04cf902a35dd6a533b6ae20069537bdd457c46e07894078-600x416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/growth-a9042d36e92dbf63d04cf902a35dd6a533b6ae20069537bdd457c46e07894078-600x4163.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "2020.html",
@@ -3198,7 +3346,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/growth-a9042d36e92dbf63d04cf902a35dd6a533b6ae20069537bdd457c46e07894078-600x416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/growth-a9042d36e92dbf63d04cf902a35dd6a533b6ae20069537bdd457c46e07894078-600x4163.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "2020.html",
