@@ -252,7 +252,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x9164.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x9166.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "бригантина.html",
@@ -324,7 +324,7 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x9165.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x9167.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "парус.html",
