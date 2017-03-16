@@ -99,7 +99,7 @@
             "paddingBottom": "0",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": false,
@@ -170,6 +170,71 @@
                 "text": "",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/-3axzx-2000x737.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
@@ -226,7 +291,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x916.png",
+              "src": "@PROJECT_PATH@/assets/images/123-600x627.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "галактика.html",
@@ -252,7 +317,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x9166.png",
+              "src": "@PROJECT_PATH@/assets/images/123-600x663.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "бригантина.html",
@@ -276,7 +341,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x685.png",
+              "src": "@PROJECT_PATH@/assets/images/123-600x684.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "эскадра.html",
@@ -300,7 +365,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x648.png",
+              "src": "@PROJECT_PATH@/assets/images/123-600x896.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "китенок.html",
@@ -324,7 +389,7 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x9167.png",
+              "src": "@PROJECT_PATH@/assets/images/123-600x921.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "парус.html",
