@@ -885,7 +885,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-ge-1400x261.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x152.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
