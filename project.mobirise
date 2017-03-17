@@ -453,7 +453,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/6-600x415.png",
+              "src": "@PROJECT_PATH@/assets/images/8-600x413.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "школа.html",
@@ -479,7 +479,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/9-600x414.png",
+              "src": "@PROJECT_PATH@/assets/images/9-1-600x414.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "спорт.html",
@@ -503,7 +503,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/7-600x415.png",
+              "src": "@PROJECT_PATH@/assets/images/10-600x414.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "спорт.html",
