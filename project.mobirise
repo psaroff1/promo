@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ФГБОУ ВДЦ",
-    "currentPage": "Океан.html",
+    "currentPage": "спорт.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -2560,44 +2560,51 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "images/slide1-small.jpg",
-                "image": "images/slide1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-1-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-3-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-3-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-4-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-4-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2653web-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2653web-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2-2000x1333.jpg",
                 "active": true
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide2-small.jpg",
-                "image": "images/slide2.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide3-small.jpg",
-                "image": "images/slide3.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide4-small.jpg",
-                "image": "images/slide4.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide5-small.jpg",
-                "image": "images/slide5.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide6-small.jpg",
-                "image": "images/slide6.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide7-small.jpg",
-                "image": "images/slide7.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide8-small.jpg",
-                "image": "images/slide8.jpg"
               }
             ],
             "showText": false,
