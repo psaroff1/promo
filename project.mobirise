@@ -100,7 +100,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123-2000x1000.jpg",
                 "contentAlign": "right",
                 "overlay": false,
                 "overlayColor": "#ffffff",
@@ -113,7 +113,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2510web-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123-2-2000x1000.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -124,7 +124,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123-3-2000x1000.jpg",
                 "contentAlign": "center",
                 "overlay": false,
                 "overlayOpacity": "0.1",
@@ -137,7 +137,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mg-9599web-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123-4-2000x1000.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -148,7 +148,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123-5-2000x1000.jpg",
                 "contentAlign": "right",
                 "overlay": false,
                 "showTitle": false,
@@ -160,20 +160,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
-                "contentAlign": "right",
-                "overlay": false,
-                "overlayColor": "#ffffff",
-                "showTitle": false,
-                "title": "Slide 1",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123-6-2000x1000.jpg",
                 "contentAlign": "right",
                 "overlay": false,
                 "overlayColor": "#ffffff",
@@ -186,7 +173,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123-7-2000x1000.jpg",
                 "contentAlign": "right",
                 "overlay": false,
                 "overlayColor": "#ffffff",
@@ -199,20 +186,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
-                "contentAlign": "right",
-                "overlay": false,
-                "overlayColor": "#ffffff",
-                "showTitle": false,
-                "title": "Slide 1",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/bridge-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123-8-2000x1000.jpg",
                 "contentAlign": "right",
                 "overlay": false,
                 "overlayColor": "#ffffff",
@@ -225,7 +199,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/-3axzx-2000x737.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123-9-2000x1000.jpg",
                 "contentAlign": "right",
                 "overlay": false,
                 "overlayColor": "#ffffff",
