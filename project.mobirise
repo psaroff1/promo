@@ -267,7 +267,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/5-600x631.jpg",
+              "src": "@PROJECT_PATH@/assets/images/4-600x848.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "галактика.html",
@@ -293,7 +293,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x749.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x849.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "китенок.html",
@@ -317,7 +317,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/4-600x685.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-600x843.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "эскадра.html",
@@ -341,7 +341,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x767.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2-600x849.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "парус.html",
@@ -365,7 +365,7 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/3-600x923.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3-600x849.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "бригантина.html",
