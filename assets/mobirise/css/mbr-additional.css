@@ -85,7 +85,7 @@
 
 #content5-1u .mbr-header .mbr-header__text {
   text-align: center;
-  color: #000000;
+  color: #27aae0;
 }
 #content5-1u .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -95,12 +95,15 @@
   color: #fff;
 }
 #content5-1u .mbr-article P {
-  color: #000000;
+  color: #27aae0;
 }
 #ext_menu-a .mbr-brand__name {
   font-size: 16px;
 }
 #ext_menu-a.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-a .mbr-navbar__section {
   background: #ffffff;
 }
 #ext_menu-a .mbr-navbar__hamburger {
@@ -126,6 +129,9 @@
 #ext_menu-c.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
+#ext_menu-c .mbr-navbar__section {
+  background: #ffffff;
+}
 #ext_menu-c .mbr-navbar__hamburger {
   color: #27aae0;
 }
@@ -135,6 +141,20 @@
 }
 #ext_menu-c .mbr-brand__name a {
   font-size: 20px;
+}
+#content5-52 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #27aae0;
+}
+#content5-52 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-52 .mbr-article {
+  color: #fff;
+}
+#content5-52 .mbr-article P {
+  color: #27aae0;
 }
 #contacts1-7 P {
   color: #27aae0;
@@ -184,6 +204,9 @@
 #ext_menu-1x.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
+#ext_menu-1x .mbr-navbar__section {
+  background: #ffffff;
+}
 #ext_menu-1x .mbr-navbar__hamburger {
   color: #27aae0;
 }
@@ -209,6 +232,9 @@
 #ext_menu-41.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
+#ext_menu-41 .mbr-navbar__section {
+  background: #ffffff;
+}
 #ext_menu-41 .mbr-navbar__hamburger {
   color: #27aae0;
 }
@@ -218,6 +244,20 @@
 }
 #ext_menu-41 .mbr-brand__name a {
   font-size: 20px;
+}
+#content5-5b .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #27aae0;
+}
+#content5-5b .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-5b .mbr-article {
+  color: #fff;
+}
+#content5-5b .mbr-article P {
+  color: #27aae0;
 }
 #contacts1-43 P {
   color: #27aae0;
@@ -232,6 +272,9 @@
 #ext_menu-e.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
+#ext_menu-e .mbr-navbar__section {
+  background: #ffffff;
+}
 #ext_menu-e .mbr-navbar__hamburger {
   color: #27aae0;
 }
@@ -241,6 +284,20 @@
 }
 #ext_menu-e .mbr-brand__name a {
   font-size: 20px;
+}
+#content5-50 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #27aae0;
+}
+#content5-50 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-50 .mbr-article {
+  color: #fff;
+}
+#content5-50 .mbr-article P {
+  color: #27aae0;
 }
 #contacts1-7 P {
   color: #27aae0;
@@ -255,6 +312,9 @@
 #ext_menu-44.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
+#ext_menu-44 .mbr-navbar__section {
+  background: #ffffff;
+}
 #ext_menu-44 .mbr-navbar__hamburger {
   color: #27aae0;
 }
@@ -264,6 +324,20 @@
 }
 #ext_menu-44 .mbr-brand__name a {
   font-size: 20px;
+}
+#content5-51 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #27aae0;
+}
+#content5-51 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-51 .mbr-article {
+  color: #fff;
+}
+#content5-51 .mbr-article P {
+  color: #27aae0;
 }
 #contacts1-46 P {
   color: #27aae0;
@@ -278,6 +352,9 @@
 #ext_menu-47.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
+#ext_menu-47 .mbr-navbar__section {
+  background: #ffffff;
+}
 #ext_menu-47 .mbr-navbar__hamburger {
   color: #27aae0;
 }
@@ -287,6 +364,20 @@
 }
 #ext_menu-47 .mbr-brand__name a {
   font-size: 20px;
+}
+#content5-53 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #27aae0;
+}
+#content5-53 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-53 .mbr-article {
+  color: #fff;
+}
+#content5-53 .mbr-article P {
+  color: #27aae0;
 }
 #contacts1-49 P {
   color: #27aae0;
@@ -301,6 +392,9 @@
 #ext_menu-4a.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
+#ext_menu-4a .mbr-navbar__section {
+  background: #ffffff;
+}
 #ext_menu-4a .mbr-navbar__hamburger {
   color: #27aae0;
 }
@@ -310,6 +404,20 @@
 }
 #ext_menu-4a .mbr-brand__name a {
   font-size: 20px;
+}
+#content5-55 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #27aae0;
+}
+#content5-55 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-55 .mbr-article {
+  color: #fff;
+}
+#content5-55 .mbr-article P {
+  color: #27aae0;
 }
 #contacts1-4c P {
   color: #27aae0;
@@ -324,6 +432,9 @@
 #ext_menu-4d.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
+#ext_menu-4d .mbr-navbar__section {
+  background: #ffffff;
+}
 #ext_menu-4d .mbr-navbar__hamburger {
   color: #27aae0;
 }
@@ -333,6 +444,20 @@
 }
 #ext_menu-4d .mbr-brand__name a {
   font-size: 20px;
+}
+#content5-54 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #27aae0;
+}
+#content5-54 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-54 .mbr-article {
+  color: #fff;
+}
+#content5-54 .mbr-article P {
+  color: #27aae0;
 }
 #contacts1-4f P {
   color: #27aae0;
@@ -446,6 +571,9 @@
 }
 #content5-4y .mbr-article P {
   color: #27aae0;
+  text-align: left;
+}
+#content5-4y .mbr-article UL {
   text-align: center;
 }
 #ext_menu-4s .mbr-brand__name {
@@ -494,6 +622,46 @@
   font-size: 20px;
 }
 #contacts1-4x P {
+  color: #27aae0;
+  font-family: 'Roboto Slab', serif;
+  font-size: 13px;
+}
+
+
+#ext_menu-56 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-56.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-56 .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-56 .mbr-navbar__hamburger {
+  color: #27aae0;
+}
+#ext_menu-56 .mbr-navbar__items a {
+  font-size: 20px;
+  font-family: 'Roboto Slab', serif;
+}
+#ext_menu-56 .mbr-brand__name a {
+  font-size: 20px;
+}
+#content5-58 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #27aae0;
+}
+#content5-58 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-58 .mbr-article {
+  color: #fff;
+}
+#content5-58 .mbr-article P {
+  color: #27aae0;
+}
+#contacts1-57 P {
   color: #27aae0;
   font-family: 'Roboto Slab', serif;
   font-size: 13px;
