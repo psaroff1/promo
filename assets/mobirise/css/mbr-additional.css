@@ -572,11 +572,11 @@
 
 #content5-4y .mbr-header .mbr-header__text {
   text-align: center;
-  color: #fff;
+  color: #27aae0;
 }
 #content5-4y .mbr-header .mbr-header__subtext {
   text-align: center;
-  color: #fff;
+  color: #27aae0;
 }
 #content5-4y .mbr-article {
   color: #fff;
@@ -1425,6 +1425,46 @@
   color: #27aae0;
 }
 #contacts1-8l P {
+  color: #27aae0;
+  font-family: 'Roboto Slab', serif;
+  font-size: 13px;
+}
+
+
+#ext_menu-8y .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-8y.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-8y .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-8y .mbr-navbar__hamburger {
+  color: #27aae0;
+}
+#ext_menu-8y .mbr-navbar__items a {
+  font-size: 20px;
+  font-family: 'Roboto Slab', serif;
+}
+#ext_menu-8y .mbr-brand__name a {
+  font-size: 20px;
+}
+#content5-8z .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #27aae0;
+}
+#content5-8z .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-8z .mbr-article {
+  color: #fff;
+}
+#content5-8z .mbr-article P {
+  color: #27aae0;
+}
+#contacts1-91 P {
   color: #27aae0;
   font-family: 'Roboto Slab', serif;
   font-size: 13px;

@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 322,
+    "uniqCompNum": 326,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/128x85.png",
     "noImageResize": ""
@@ -3823,11 +3823,11 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fff"
+              "color": "#27aae0"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
-              "color": "#fff"
+              "color": "#27aae0"
             },
             ".mbr-article": {
               "color": "#fff"
@@ -3847,8 +3847,8 @@
           "_anchor": "content5-4y",
           "_params": {
             "showCaption": "noCaption",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -3867,9 +3867,9 @@
             "showMeta": false,
             "darkBackground": true
           },
-          "title": "EASY TO USE!",
+          "title": "&nbsp;Общественный центр дружины-флотилии «Парус»EASY TO USE!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Общественный центр дружины-флотилии «Парус»</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;По поручению президента РФ Владимира Путина Правительством России разработана и 16 декабря 2014 года утверждена Программа развития ФГБОУ ВДЦ «Океан» на 2014-2020 гг.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;В рамках её реализации весной 2016 года началось строительство общественного центра дружины-флотилии «Парус» со столовой на 650 мест и медицинским пунктом. По планам на втором этаже расположится два обеденных зала, а на первом зона «Наукоград», гардероб, сцена и просторный холл. Уже 1 июня 2017 года ребята из дружины «Парус» будут обедать в новой столовой.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;На базе общественного центра дружины-флотилии «Парус» летом откроется океанский наукоград. Работа в нём будет вестись по нескольким направлениям: биология, нанотехнологии, дополненная реальность, робототехника и энергетика. «Наукоград» будет представлять собой выставку интерактивных экспонатов для изучения различных естественнонаучных и технических процессов и явлений таких, как движение (качение) геометрических фигур в зависимости от проложенной траектории, отражение изображения от зеркальной поверхности под определенным углом, построение арочного моста с замковым камнем, создание анимационных фильмов, использование лазерного источника света в музыкальном инструменте взамен струн, аддитивное смешение цветов с помощью светофильтров, механические передачи с различным передаточным отношением, модель солнечной системы и многое другое.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Посетители «Наукограда» получат возможность испытать свои шансы стать космонавтом с помощью интерактивного игрового симулятора ведения воздушных полетов и звёздных боев, интерактивного экспоната по изучению аэротрубы и пневморакеты, а также изучить систему питания в космосе. И это далеко не все возможности «Наукограда», ведь в нем будет представлено не менее 30 различных учебных экспонатов, симуляторов и аттракционов.</p><p><br></p>",
+          "text": "<p>&nbsp;По поручению президента РФ Владимира Путина Правительством России разработана и 16 декабря 2014 года утверждена Программа развития ФГБОУ ВДЦ «Океан» на 2014-2020 гг.</p><p>В рамках её реализации весной 2016 года началось строительство общественного центра дружины-флотилии «Парус» со столовой на 650 мест и медицинским пунктом. По планам на втором этаже расположится два обеденных зала, а на первом зона «Наукоград», гардероб, сцена и просторный холл. Уже 1 июня 2017 года ребята из дружины «Парус» будут обедать в новой столовой.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;На базе общественного центра дружины-флотилии «Парус» летом откроется океанский наукоград. Работа в нём будет вестись по нескольким направлениям: биология, нанотехнологии, дополненная реальность, робототехника и энергетика. «Наукоград» будет представлять собой выставку интерактивных экспонатов для изучения различных естественнонаучных и технических процессов и явлений таких, как движение (качение) геометрических фигур в зависимости от проложенной траектории, отражение изображения от зеркальной поверхности под определенным углом, построение арочного моста с замковым камнем, создание анимационных фильмов, использование лазерного источника света в музыкальном инструменте взамен струн, аддитивное смешение цветов с помощью светофильтров, механические передачи с различным передаточным отношением, модель солнечной системы и многое другое.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Посетители «Наукограда» получат возможность испытать свои шансы стать космонавтом с помощью интерактивного игрового симулятора ведения воздушных полетов и звёздных боев, интерактивного экспоната по изучению аэротрубы и пневморакеты, а также изучить систему питания в космосе. И это далеко не все возможности «Наукограда», ведь в нем будет представлено не менее 30 различных учебных экспонатов, симуляторов и аттракционов.</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -4147,8 +4147,8 @@
           "_anchor": "content5-58",
           "_params": {
             "showCaption": "noCaption",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -4167,7 +4167,7 @@
             "showMeta": false,
             "darkBackground": true
           },
-          "title": "Научно-образовательный проект «Русское подворье»",
+          "title": "Научно-образовательный проект <br>«Русское подворье»",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Научно-образовательный проект «Русское подворье» во Всероссийском детском центре «Океан» создаётся с целью приобщения детей и подростков к национальным ценностям России.</p><p>Подворье будет выполнено в традициях деревянного зодчества Древней Руси. Ребята будут вовлечены в атмосферу русских обычаев, в изучение исторического и культурного наследия страны.</p><p>Научно-образовательный проект «Русское подворье» задуман как многопрофильная площадка с особой атмосферой гостеприимства  радушного русского селения, выполненная в традициях русского деревянного зодчества. Дети смогут попробовать себя в роли наших предков, окунуться в быт славян, насладиться кулинарными изысками и музыкальными звуками, посетить музей «Русская изба» с настоящей русской печью, ярмарку, фотостудию и выставочный зал, творческие мастерские, отдохнуть и поучаствовать в русских забавах и национальных фестивалях. Торжественное открытие запланировано на 12 июня 2017 года – День России.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
@@ -4312,7 +4312,7 @@
           "_params": {
             "showCaption": "noCaption",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -4381,7 +4381,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "Океан.html",
+              "link": "Океанан.html",
               "title": "",
               "linkInNewWindow": false,
               "active": true
@@ -4566,7 +4566,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "Океан.html",
+              "link": "Океанан.html",
               "title": "",
               "linkInNewWindow": false,
               "active": true
@@ -4794,7 +4794,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "Океан.html",
+              "link": "Океанан.html",
               "title": "",
               "linkInNewWindow": false,
               "active": true
@@ -5022,7 +5022,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
-              "link": "Океан.html",
+              "link": "Океанан.html",
               "title": "",
               "linkInNewWindow": false,
               "active": true
@@ -5250,7 +5250,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "Океан.html",
+              "link": "Океанан.html",
               "title": "",
               "linkInNewWindow": false,
               "active": true
@@ -5477,7 +5477,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "Океан.html",
+              "link": "2020ан.html",
               "title": "",
               "linkInNewWindow": false,
               "active": true
@@ -6144,7 +6144,7 @@
               "src": "@PROJECT_PATH@/assets/images/10-600x414.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "спортан.html",
+              "link": "шдан.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -6592,7 +6592,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "Океан.html",
+              "link": "Океанан.html",
               "title": "",
               "linkInNewWindow": false,
               "active": true
@@ -6827,7 +6827,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "Океан.html",
+              "link": "Океанан.html",
               "title": "",
               "linkInNewWindow": false,
               "active": true
@@ -7241,7 +7241,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "Океан.html",
+              "link": "Океанан.html",
               "title": "",
               "linkInNewWindow": false,
               "active": true
@@ -7361,7 +7361,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
-              "link": "Океан.html",
+              "link": "Океанан.html",
               "title": "",
               "linkInNewWindow": false,
               "active": true
@@ -7643,7 +7643,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "Океан.html",
+              "link": "2020ан.html",
               "title": "",
               "linkInNewWindow": false,
               "active": true
@@ -7873,8 +7873,8 @@
           "_anchor": "content5-7f",
           "_params": {
             "showCaption": "noCaption",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -7893,7 +7893,7 @@
             "showMeta": false,
             "darkBackground": true
           },
-          "title": "Научно-образовательный проект «Русское подворье»",
+          "title": "Научно-образовательный проект <br>«Русское подворье»",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Научно-образовательный проект «Русское подворье» во Всероссийском детском центре «Океан» создаётся с целью приобщения детей и подростков к национальным ценностям России.</p><p>Подворье будет выполнено в традициях деревянного зодчества Древней Руси. Ребята будут вовлечены в атмосферу русских обычаев, в изучение исторического и культурного наследия страны.</p><p>Уникальный опыт «Океана» в организации дополнительного образования в целом и программ, связанных с этнокультурными смыслами, в частности, стал основанием для рождения идеи создания особой образовательной среды, ориентированной на работу с этническим материалом. Это положило начало проекту «Этнокруг».\n«Этнокруг» – это инновационная образовательная среда, сочетающая в себе этнические образы и современные образовательные технологии. \nЕсли «Океан» – это место встречи детей, народов, культур целой страны, то нужна особая площадка, которая стала бы миниатюрным отражением всей этой страны. Пусть каждый ребёнок, приехавший сюда, сможет увидеть богатство и многообразие Российской Федерации, наглядно представить красоту и необычность своей малой Родины, внести личный вклад в создание ее образа.\nВсе народы, проживающие на её территории, должны быть представлены в пространстве «Этнокруга». Генеральной целью проекта является создание инновационной образовательной среды, ориентированной на развитие мультикультурности и метапространства личности.\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
@@ -8834,7 +8834,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "Океан.html",
+              "link": "2020ан.html",
               "title": "",
               "linkInNewWindow": false,
               "active": true
@@ -9020,7 +9020,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "Океан.html",
+              "link": "2020ан.html",
               "title": "",
               "linkInNewWindow": false,
               "active": true
@@ -9161,6 +9161,233 @@
             }
           },
           "_anchor": "contacts1-8l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "Океан.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
+        }
+      ]
+    },
+    "page35.html": {
+      "settings": {
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#27aae0"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "20px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "20px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8y",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#27aae0",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Океанан.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://okean.org",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#27aae0"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#27aae0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-8z",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Russian village",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Science-educational project “Russian village” creates with the aim to join children and teenagers to Russian national values in All Russian Children's Center “Okean”. \n\n</p><p>«Russian village» will performed in tradition of wooden architecture Ancient Rus. Guys will be involved to atmosphere of Russian traditions, to studying historical and cultural heritage of the country. \n\n</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide1-small.jpg",
+                "image": "images/slide1.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide2-small.jpg",
+                "image": "images/slide2.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide3-small.jpg",
+                "image": "images/slide3.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide4-small.jpg",
+                "image": "images/slide4.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide5-small.jpg",
+                "image": "images/slide5.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide6-small.jpg",
+                "image": "images/slide6.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide8-small.jpg",
+                "image": "images/slide8.jpg"
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-90",
+          "articleLayout": true
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-91",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
