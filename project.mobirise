@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ФГБОУ ВДЦ",
-    "currentPage": "Океан.html",
+    "currentPage": "2020.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -840,7 +840,7 @@
           "_anchor": "contacts1-7",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1104,7 +1104,7 @@
           "_anchor": "contacts1-7",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1233,8 +1233,8 @@
           "_anchor": "content5-52",
           "_params": {
             "showCaption": "noCaption",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -1332,7 +1332,7 @@
           "_anchor": "contacts1-7",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1421,7 +1421,7 @@
               "src": "@PROJECT_PATH@/assets/images/img-600x399.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "2020.html",
+              "link": "парус2020.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1447,7 +1447,7 @@
               "src": "@PROJECT_PATH@/assets/images/unnamed-600x359.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "бригантина.html",
+              "link": "этно.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1471,7 +1471,7 @@
               "src": "@PROJECT_PATH@/assets/images/1-600x329.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "флотилия.html",
+              "link": "Подворье.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1495,7 +1495,7 @@
               "src": "@PROJECT_PATH@/assets/images/1-600x399.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "китенок.html",
+              "link": "плошадка2020.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1638,7 +1638,7 @@
           "_anchor": "contacts1-4f",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1916,14 +1916,6 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-5a",
-          "text": ""
-        },
-        {
           "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
@@ -1948,8 +1940,8 @@
           "_anchor": "content5-5b",
           "_params": {
             "showCaption": "noCaption",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -2047,7 +2039,7 @@
           "_anchor": "contacts1-43",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -2176,8 +2168,8 @@
           "_anchor": "content5-50",
           "_params": {
             "showCaption": "noCaption",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -2275,7 +2267,7 @@
           "_anchor": "contacts1-7",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -2404,8 +2396,8 @@
           "_anchor": "content5-51",
           "_params": {
             "showCaption": "noCaption",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -2503,7 +2495,7 @@
           "_anchor": "contacts1-46",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -2731,7 +2723,7 @@
           "_anchor": "contacts1-49",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -2966,7 +2958,7 @@
           "_anchor": "contacts1-4c",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -3194,7 +3186,7 @@
           "_anchor": "contacts1-4f",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -3342,7 +3334,7 @@
           "_anchor": "contacts1-4h",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -3490,7 +3482,7 @@
           "_anchor": "contacts1-4l",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -3638,7 +3630,7 @@
           "_anchor": "contacts1-4o",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -3786,7 +3778,7 @@
           "_anchor": "contacts1-4r",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -4027,7 +4019,7 @@
           "_anchor": "contacts1-4t",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -4254,7 +4246,7 @@
           "_anchor": "contacts1-57",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -4489,7 +4481,7 @@
           "_anchor": "contacts1-5f",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -4717,7 +4709,7 @@
           "_anchor": "contacts1-5o",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -4846,8 +4838,8 @@
           "_anchor": "content5-5q",
           "_params": {
             "showCaption": "noCaption",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -4945,7 +4937,7 @@
           "_anchor": "contacts1-5s",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -5173,7 +5165,7 @@
           "_anchor": "contacts1-5w",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -5401,7 +5393,7 @@
           "_anchor": "contacts1-64",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -5628,7 +5620,7 @@
           "_anchor": "contacts1-6c",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -6486,7 +6478,7 @@
           "_anchor": "contacts1-6p",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -6750,7 +6742,7 @@
           "_anchor": "contacts1-6u",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -6978,7 +6970,7 @@
           "_anchor": "contacts1-6y",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -7284,7 +7276,7 @@
           "_anchor": "contacts1-71",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -7413,8 +7405,8 @@
           "_anchor": "content5-73",
           "_params": {
             "showCaption": "noCaption",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -7512,7 +7504,7 @@
           "_anchor": "contacts1-75",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -7753,7 +7745,7 @@
           "_anchor": "contacts1-7d",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -7980,7 +7972,7 @@
           "_anchor": "contacts1-7h",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -8221,7 +8213,7 @@
           "_anchor": "contacts1-7l",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -8462,7 +8454,7 @@
           "_anchor": "contacts1-7p",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -8703,7 +8695,7 @@
           "_anchor": "contacts1-7x",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -8944,7 +8936,7 @@
           "_anchor": "contacts1-8h",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -9171,7 +9163,7 @@
           "_anchor": "contacts1-8l",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
