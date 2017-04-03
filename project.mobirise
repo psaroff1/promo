@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "ФГБОУ ВДЦ",
-    "currentPage": "Океанан.html",
+    "currentPage": "эскадраан.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 262,
+    "uniqCompNum": 322,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/128x85.png",
     "noImageResize": ""
@@ -86,7 +86,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -954,9 +954,9 @@
             "showMeta": false,
             "darkBackground": true
           },
-          "title": "Дружина «Бригантина»",
+          "title": "Дружина «Бригантина»&nbsp;",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Дружина «Бригантина»\rБелоснежная красавица «Бригантина» – первая круглогодичная дружина «Океана», открытая в 1983 году. Из её окон открывается прекрасный вид на Японское море и мыс Энгельма.\rВ «Бригантине» есть все условия для получения современного образования и полноценного отдыха: сто комфортных жилых комнат для детей (кубриков), душевые, просторная столовая, медицинский отдел, киноконцертный зал на 800 мест, школа, мастерские для занятий творчеством, библиотека, читальный зал и библиотека электронных ресурсов, информационные точки, позволяющие детям в режиме онлайн общаться со своими родными и оперативно получать необходимую информацию. Здесь же размещаются пресс-центр «Океана» и детский развлекательный комплекс, состоящий из спортбара «Олимп» и киоска «Товары от Океши», где кассирами, консультантами и администраторами проходят практику школьники – участники  экономических образовательных программ. В киоске всегда большой выбор оригинальных сувениров и необходимых в повседневной жизни товаров с символикой «Океана».\rНапротив здания «Бригантины» – амфитеатр под открытым небом на 2000 посадочных мест, здесь проводятся крупные океанские мероприятия. Главное украшение амфитеатра – пятнадцатиметровый цветомузыкальный фонтан, расположенный в центре сооружения.\rКаждую смену мы приветствуем на борту дружины 540 школьников, для которых разработаны современные тематические образовательные программы «Моя Федерация», «Российский интеллект», «Дети Мира», «Наука. Техника. Прогресс», «Форум современного искусства», «Бизнес-экспресс», «Страна детства» и многие другие.\r</p><p><br></p><p><br></p><p><br></p>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Дружина «Бригантина»\nБелоснежная красавица «Бригантина» – первая круглогодичная дружина «Океана», открытая в 1983 году. Из её окон открывается прекрасный вид на Японское море и мыс Энгельма.\nВ «Бригантине» есть все условия для получения современного образования и полноценного отдыха: сто комфортных жилых комнат для детей (кубриков), душевые, просторная столовая, медицинский отдел, киноконцертный зал на 800 мест, школа, мастерские для занятий творчеством, библиотека, читальный зал и библиотека электронных ресурсов, информационные точки, позволяющие детям в режиме онлайн общаться со своими родными и оперативно получать необходимую информацию. Здесь же размещаются пресс-центр «Океана» и детский развлекательный комплекс, состоящий из спортбара «Олимп» и киоска «Товары от Океши», где кассирами, консультантами и администраторами проходят практику школьники – участники  экономических образовательных программ. В киоске всегда большой выбор оригинальных сувениров и необходимых в повседневной жизни товаров с символикой «Океана».\nНапротив здания «Бригантины» – амфитеатр под открытым небом на 2000 посадочных мест, здесь проводятся крупные океанские мероприятия. Главное украшение амфитеатра – пятнадцатиметровый цветомузыкальный фонтан, расположенный в центре сооружения.\nКаждую смену мы приветствуем на борту дружины 540 школьников, для которых разработаны современные тематические образовательные программы «Моя Федерация», «Российский интеллект», «Дети Мира», «Наука. Техника. Прогресс», «Форум современного искусства», «Бизнес-экспресс», «Страна детства» и многие другие.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -1020,7 +1020,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -1205,7 +1205,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -1519,7 +1519,7 @@
               "src": "@PROJECT_PATH@/assets/images/kkz-600x400.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "ккз2020.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1619,7 +1619,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -1739,7 +1739,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -1912,7 +1912,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -2148,7 +2148,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -2376,7 +2376,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -2604,7 +2604,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -2832,7 +2832,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -3067,7 +3067,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -3295,7 +3295,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -3443,7 +3443,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -3591,7 +3591,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -3739,7 +3739,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -4127,7 +4127,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -4177,7 +4177,7 @@
           },
           "title": "Научно-образовательный проект «Русское подворье»",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Научно-образовательный проект «Русское подворье» во Всероссийском детском центре «Океан» создаётся с целью приобщения детей и подростков к национальным ценностям России.</p><p>Подворье будет выполнено в традициях деревянного зодчества Древней Руси. Ребята будут вовлечены в атмосферу русских обычаев, в изучение исторического и культурного наследия страны.</p>",
+          "text": "<p>Научно-образовательный проект «Русское подворье» во Всероссийском детском центре «Океан» создаётся с целью приобщения детей и подростков к национальным ценностям России.</p><p>Подворье будет выполнено в традициях деревянного зодчества Древней Руси. Ребята будут вовлечены в атмосферу русских обычаев, в изучение исторического и культурного наследия страны.</p><p>Научно-образовательный проект «Русское подворье» задуман как многопрофильная площадка с особой атмосферой гостеприимства  радушного русского селения, выполненная в традициях русского деревянного зодчества. Дети смогут попробовать себя в роли наших предков, окунуться в быт славян, насладиться кулинарными изысками и музыкальными звуками, посетить музей «Русская изба» с настоящей русской печью, ярмарку, фотостудию и выставочный зал, творческие мастерские, отдохнуть и поучаствовать в русских забавах и национальных фестивалях. Торжественное открытие запланировано на 12 июня 2017 года – День России.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -4339,7 +4339,7 @@
             "showMeta": false,
             "darkBackground": true
           },
-          "title": "Дружина «Бригантина»",
+          "title": "Housing “Brigantine”",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Дружина «Бригантина»\nБелоснежная красавица «Бригантина» – первая круглогодичная дружина «Океана», открытая в 1983 году. Из её окон открывается прекрасный вид на Японское море и мыс Энгельма.\nВ «Бригантине» есть все условия для получения современного образования и полноценного отдыха: сто комфортных жилых комнат для детей (кубриков), душевые, просторная столовая, медицинский отдел, киноконцертный зал на 800 мест, школа, мастерские для занятий творчеством, библиотека, читальный зал и библиотека электронных ресурсов, информационные точки, позволяющие детям в режиме онлайн общаться со своими родными и оперативно получать необходимую информацию. Здесь же размещаются пресс-центр «Океана» и детский развлекательный комплекс, состоящий из спортбара «Олимп» и киоска «Товары от Океши», где кассирами, консультантами и администраторами проходят практику школьники – участники  экономических образовательных программ. В киоске всегда большой выбор оригинальных сувениров и необходимых в повседневной жизни товаров с символикой «Океана».\nНапротив здания «Бригантины» – амфитеатр под открытым небом на 2000 посадочных мест, здесь проводятся крупные океанские мероприятия. Главное украшение амфитеатра – пятнадцатиметровый цветомузыкальный фонтан, расположенный в центре сооружения.\nКаждую смену мы приветствуем на борту дружины 540 школьников, для которых разработаны современные тематические образовательные программы «Моя Федерация», «Российский интеллект», «Дети Мира», «Наука. Техника. Прогресс», «Форум современного искусства», «Бизнес-экспресс», «Страна детства» и многие другие.\n</p><p><br></p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
@@ -4405,7 +4405,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -4590,7 +4590,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -4646,9 +4646,9 @@
             "showMeta": false,
             "darkBackground": true
           },
-          "title": "Дружина «Галактика»",
+          "title": "Housing “Galaxy”",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>В рамках реализации Программы развития ВДЦ «Океан» предусмотрено строительство комплекса зданий круглогодичной дружины «Галактика». В состав круглогодичной дружины войдут жилой комплекс на 500 мест, в том числе 200 мест для детей с ограниченными возможностями здоровья, столовая, киноконцертный и спортивный залы, школа на 20 классов, физкультурно-оздоровительный комплекс, современный медицинский центр, дом детского творчества и сезонный амфитеатр. Все объекты предусматривают доступную среду. На данный момент ведутся проектные работы.</p>",
+          "text": "<p>It is planned to build a complex of buildings all-year-round housing “Galaxy” within the framework Program of development of the ARCC “Okean”. All-year-round housing will consist of residential complex for 500 people, including 200 places for children with limited health opportunities, canteen,  cinema-concert hall and sports hall, school with 20 classes, sports and improving complex, modern medical center, house of children's creativity and seasonal amphitheater. All objects provide the accessible environment.  There are project works at the moment.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -4826,7 +4826,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -4874,9 +4874,9 @@
             "showMeta": false,
             "darkBackground": true
           },
-          "title": "Дружина «Океанская эскадра»",
+          "title": "Educational complex “Ocean Squadron”",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Торжественное открытие дружины «Океанская эскадра» состоится 1 июня 2017 года.\nДля современного полноценного и познавательного отдыха в «Океанской эскадре» есть комфортные жилые комнаты, планируется строительство большой многопрофильной столовой на 300 мест с трансформацией при необходимости в актовый зал. В дружине, как и во всем Центре, находятся «информационные точки», позволяющие детям в режиме онлайн общаться со своими родными и близкими, оперативно получать необходимую информацию для саморазвития.\n«Океанская эскадра» является новой дружиной и расположена в восточной части бухты Емар в тени столетних дубов и клёнов, что позволяет укрыться от дождя в ненастье и от жары в полуденный зной. В дружине 150 койко-мест,  в кубриках проживают по 3-4 человека.\nВ летний период дружина приглашает в команду 150 школьников из 34 субъектов Российской Федерации, для которых разработаны современные тематические образовательные программы «Робинзонада», «Морские сюжеты», «Слёт юнг», «Сильные люди», «Экологический форум», «Служить России!» и другие.\n«Эскадра» является учебно-образовательным комплексом экспериментального типа, в котором детям предлагается окунуться в разные познавательные области:\n•\t область исследований, через археологические раскопки совместно с приморскими археологами как на территории бухты Емар, так и с посещением историко-археологической тропы на «Земле леопардов»;\n•\tприключений, через погружение в образовательные квесты, в ходе которых у ребят есть возможность познакомиться с чтением топографических карт, изучением навигационного оборудования управления судном, участием в походах по приморской тайге в сопровождении опытных проводников и выходом на ялах в бухту Емар под руководством сертифицированных моряков-спасателей;\n•\tпрогресса, через изучение современных направлений науки и техники с полным включением в изучение окружающего мира, проектирование и конструирование современных робототехнических конструкторов.\nКаждый отряд в команде «Эскадры» имеет свой профиль: «Школа юнг», «Морские первооткрыватели», «Морской технопарк», «Здоровая нация», «Школа выживания», «Морская экспедиция».\nДружина «Эскадра» живёт по принципу, озвученному известным исследователем моря Жаком Ив Кусто: «Море не только запустило процесс жизни на Земле, оно не даёт этой жизни закончиться!».\n</p>",
+          "text": "<p>Within implementation the development Program of “Okean” will be created children sea flotilla on the territory of Center. It's development is actual for military patriotic education of youth and also for studying of sea flora and fauna. \nCeremonial opening of housing “Ocean Squadron” will be at June 3, 2017. \nHousing will meet 148 pupils from 34 subjects of Russian Federation at summer, and here created modern thematic educational programs “Robinzonada”, “Sea stories”, “Meeting of ship's boys”, “Ecological forum”, “To serve Russia” and etc. for children.</p><p>There will appeare comfort rooms with 3-4 places for the modern good informative rest, big versatile canteen with 300 places with transformation to assembly hall. In housing will be “informative places” like in all Center, which would allow children online communicate with relatives and the nearest people and get information for their self-development fast.&nbsp;</p><p>«Ocean Squadron» is an educational complex of experimental type where children could  immerse to atmosphere: </p><p>\n•\tof researching through the archeological excavations together with seasides archeologists as in the territory of a bay Emar and with visiting historic-archeological path on the “Earth of leopards”;\n</p><p>•\tof traveling through the immersion to educational quest where guys can study the reading of contour map, learning of navigation equipment of control of the vessel, participation in   campaigns on a seaside boreal forest accompanied by pilot conductors and an exit on the yawls in a bay Emar under the leadership of the certified seamen-rescuers;\n</p><p>•\tof progress through studying modern ways of science and technique with the full immerse to the world, engineering and designing of modern robotic designers.</p><p>Every squad will have their section: “The school of ship-boys”, “Sea discoverers”, “Sea technological park”, “Health nation”, “School of survival”, “Sea expedition”. </p><p>\nHousing “Ocean Squadron” lives by the principle the sounded famous researcher of the sea Jacques Yves Cousteau: \"The sea not only has started process of life on Earth, it doesn't allow this life to end!\"\n</p><p>\n</p><p> \n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -5054,7 +5054,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -5282,7 +5282,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -5509,7 +5509,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -5557,9 +5557,9 @@
             "showMeta": false,
             "darkBackground": true
           },
-          "title": "Научно-образовательный проект «Русское подворье»",
+          "title": "Russian village",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Научно-образовательный проект «Русское подворье» во Всероссийском детском центре «Океан» создаётся с целью приобщения детей и подростков к национальным ценностям России.</p><p>Подворье будет выполнено в традициях деревянного зодчества Древней Руси. Ребята будут вовлечены в атмосферу русских обычаев, в изучение исторического и культурного наследия страны.</p>",
+          "text": "<p>Science-educational project “Russian village” creates with the aim to join children and teenagers to Russian national values in All Russian Children's Center “Okean”. \n\n</p><p>«Russian village» will performed in tradition of wooden architecture Ancient Rus. Guys will be involved to atmosphere of Russian traditions, to studying historical and cultural heritage of the country. \n\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -5740,7 +5740,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -6624,7 +6624,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -6859,7 +6859,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -7273,7 +7273,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -7290,234 +7290,6 @@
             }
           },
           "_anchor": "contacts1-71",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "Океан.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
-        }
-      ]
-    },
-    "page27.html": {
-      "settings": {
-        "title": "ФГБОУ ВДЦ \"Океан\"",
-        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 4
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
-            },
-            ".mbr-navbar__section": {
-              "background": "#ffffff"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#27aae0"
-            },
-            ".mbr-navbar__items a": {
-              "font-size": "20px",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "20px"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-76",
-          "_params": {
-            "color": "#ffffff",
-            "hamburgerColor": "#27aae0",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "",
-              "link": "Океан.html",
-              "title": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "alert",
-              "family": "MobiriseIcons",
-              "link": "https://okean.org",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#27aae0"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            },
-            ".mbr-article P": {
-              "color": "#27aae0"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-77",
-          "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#28324e",
-            "showMeta": false,
-            "darkBackground": true
-          },
-          "title": "Летний комплекс «Китёнок – Тигрёнок»&nbsp;",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Большую часть уютных домиков летнего комплекса не сразу заметишь, прогуливаясь по территории «Океана»: от дождей и зноя их скрывают густые кроны деревьев, создавая для детей особую атмосферу отдыха. А совсем рядом, в 30–40 метрах,  набегают на пляж с золотистым песком волны. \nНа его территории расположены комфортабельные летние домики, оборудованные кондиционерами, столовая, культурно-развлекательные центры, бытовые помещения, медицинские пункты, спортивные площадки, костровые и отрядные места, фонтан. \nКомплекс летних дружин может одновременно принять 500 детей. Здесь традиционно проходят смены «Дороги без опасности», «Сильные люди», «Шоу-мастер», экологический форум «Живи, Земля!», а также проводятся мероприятия, посвящённые проблемам сохранения редких видов животных на планете.\n</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "images": [
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide1-small.jpg",
-                "image": "images/slide1.jpg",
-                "active": true
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide2-small.jpg",
-                "image": "images/slide2.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide3-small.jpg",
-                "image": "images/slide3.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide4-small.jpg",
-                "image": "images/slide4.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide5-small.jpg",
-                "image": "images/slide5.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide6-small.jpg",
-                "image": "images/slide6.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide7-small.jpg",
-                "image": "images/slide7.jpg"
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "images/slide8-small.jpg",
-                "image": "images/slide8.jpg"
-              }
-            ],
-            "showText": false,
-            "fullWidth": false,
-            "noGutter": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery2-78",
-          "articleLayout": true
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#27aae0",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
-            }
-          },
-          "_anchor": "contacts1-79",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "2",
@@ -7621,7 +7393,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -7746,6 +7518,1892 @@
             }
           },
           "_anchor": "contacts1-75",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "Океан.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
+        }
+      ]
+    },
+    "парус2020ан.html": {
+      "settings": {
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
+        "order": 11
+      },
+      "components": [
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#27aae0"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#27aae0",
+              "text-align": "left"
+            },
+            ".mbr-article UL": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-7a",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "<br>Community center of housing-flotilla “Sail”",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b></p><p>The Program of development of ARCC “Okean” 2014-2020 was devised and approved at the request of the President of Russian Federation Vladimir Putin Government of Russia. </p><p>\nThere has begun the construction of the community center of housing-flotilla “Sail” with canteen on 650 places and medical center within implementation of the Program in the spring 2016. There will be located two dinner tables on the second floor and on the first will be zone “Science city”, scene and spacious hall according to a plan. Children from housing “Sail” will have a dinner in the new dining room at June 1, 2017.\n</p><p>On the base of the community center of housing-flotilla “Sail” will open science city in the summer.  There will be the following courses: biologic, nano-technologies, augmented reality, robotics, power engineering. “Science city” will be like exhibition of interactive exhibits for studying different natural-scientific and technical processes and phenomena such as movement (rolling) of geometric figures depending on the trajectory, reflection of the image from the mirror surface at a certain angle, construction of an arch bridge with a castle stone, creation of an animation films, usage of a laser light source in a musical instrument instead of strings, additive color mixing with the help of light filters, mechanical transmission with different gear ratio, model of solar system and etc. </p><p>\n\nVisitors of \"Science city\" will have an opportunity to test their chances to become the astronaut with the help of the interactive game simulator of conducting air flights and star fights, an interactive exhibit on studying of an aero pipe and the pneumorocket and also to study a power supply system in space. And it is not all opportunities of \"Science city\", there will presented not less than 30 various educational exhibits, simulators and attractions.\n</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#27aae0"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "20px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "20px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7b",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#27aae0",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Океан.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://okean.org",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-11-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-13-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-7c",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-7d",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "Океан.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
+        }
+      ]
+    },
+    "этно.html": {
+      "settings": {
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#27aae0"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "20px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "20px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7e",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#27aae0",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Океан.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://okean.org",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#27aae0"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#27aae0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-7f",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Научно-образовательный проект «Русское подворье»",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Научно-образовательный проект «Русское подворье» во Всероссийском детском центре «Океан» создаётся с целью приобщения детей и подростков к национальным ценностям России.</p><p>Подворье будет выполнено в традициях деревянного зодчества Древней Руси. Ребята будут вовлечены в атмосферу русских обычаев, в изучение исторического и культурного наследия страны.</p><p>Уникальный опыт «Океана» в организации дополнительного образования в целом и программ, связанных с этнокультурными смыслами, в частности, стал основанием для рождения идеи создания особой образовательной среды, ориентированной на работу с этническим материалом. Это положило начало проекту «Этнокруг».\n«Этнокруг» – это инновационная образовательная среда, сочетающая в себе этнические образы и современные образовательные технологии. \nЕсли «Океан» – это место встречи детей, народов, культур целой страны, то нужна особая площадка, которая стала бы миниатюрным отражением всей этой страны. Пусть каждый ребёнок, приехавший сюда, сможет увидеть богатство и многообразие Российской Федерации, наглядно представить красоту и необычность своей малой Родины, внести личный вклад в создание ее образа.\nВсе народы, проживающие на её территории, должны быть представлены в пространстве «Этнокруга». Генеральной целью проекта является создание инновационной образовательной среды, ориентированной на развитие мультикультурности и метапространства личности.\n</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide1-small.jpg",
+                "image": "images/slide1.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide2-small.jpg",
+                "image": "images/slide2.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide3-small.jpg",
+                "image": "images/slide3.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide4-small.jpg",
+                "image": "images/slide4.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide5-small.jpg",
+                "image": "images/slide5.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide6-small.jpg",
+                "image": "images/slide6.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide8-small.jpg",
+                "image": "images/slide8.jpg"
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-7g",
+          "articleLayout": true
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-7h",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "Океан.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
+        }
+      ]
+    },
+    "ккз2020.html": {
+      "settings": {
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
+        "order": 11
+      },
+      "components": [
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#27aae0",
+              "text-align": "left"
+            },
+            ".mbr-article UL": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-7i",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "EASY TO USE!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Общественный центр дружины-флотилии «Парус»</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;По поручению президента РФ Владимира Путина Правительством России разработана и 16 декабря 2014 года утверждена Программа развития ФГБОУ ВДЦ «Океан» на 2014-2020 гг.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;В рамках её реализации весной 2016 года началось строительство общественного центра дружины-флотилии «Парус» со столовой на 650 мест и медицинским пунктом. По планам на втором этаже расположится два обеденных зала, а на первом зона «Наукоград», гардероб, сцена и просторный холл. Уже 1 июня 2017 года ребята из дружины «Парус» будут обедать в новой столовой.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;На базе общественного центра дружины-флотилии «Парус» летом откроется океанский наукоград. Работа в нём будет вестись по нескольким направлениям: биология, нанотехнологии, дополненная реальность, робототехника и энергетика. «Наукоград» будет представлять собой выставку интерактивных экспонатов для изучения различных естественнонаучных и технических процессов и явлений таких, как движение (качение) геометрических фигур в зависимости от проложенной траектории, отражение изображения от зеркальной поверхности под определенным углом, построение арочного моста с замковым камнем, создание анимационных фильмов, использование лазерного источника света в музыкальном инструменте взамен струн, аддитивное смешение цветов с помощью светофильтров, механические передачи с различным передаточным отношением, модель солнечной системы и многое другое.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Посетители «Наукограда» получат возможность испытать свои шансы стать космонавтом с помощью интерактивного игрового симулятора ведения воздушных полетов и звёздных боев, интерактивного экспоната по изучению аэротрубы и пневморакеты, а также изучить систему питания в космосе. И это далеко не все возможности «Наукограда», ведь в нем будет представлено не менее 30 различных учебных экспонатов, симуляторов и аттракционов.</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#27aae0"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "20px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "20px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7j",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#27aae0",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Океан.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://okean.org",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-11-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-13-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-7k",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-7l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "Океан.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
+        }
+      ]
+    },
+    "плошадка2020.html": {
+      "settings": {
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
+        "order": 11
+      },
+      "components": [
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#27aae0",
+              "text-align": "left"
+            },
+            ".mbr-article UL": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-7m",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "EASY TO USE!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Общественный центр дружины-флотилии «Парус»</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;По поручению президента РФ Владимира Путина Правительством России разработана и 16 декабря 2014 года утверждена Программа развития ФГБОУ ВДЦ «Океан» на 2014-2020 гг.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;В рамках её реализации весной 2016 года началось строительство общественного центра дружины-флотилии «Парус» со столовой на 650 мест и медицинским пунктом. По планам на втором этаже расположится два обеденных зала, а на первом зона «Наукоград», гардероб, сцена и просторный холл. Уже 1 июня 2017 года ребята из дружины «Парус» будут обедать в новой столовой.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;На базе общественного центра дружины-флотилии «Парус» летом откроется океанский наукоград. Работа в нём будет вестись по нескольким направлениям: биология, нанотехнологии, дополненная реальность, робототехника и энергетика. «Наукоград» будет представлять собой выставку интерактивных экспонатов для изучения различных естественнонаучных и технических процессов и явлений таких, как движение (качение) геометрических фигур в зависимости от проложенной траектории, отражение изображения от зеркальной поверхности под определенным углом, построение арочного моста с замковым камнем, создание анимационных фильмов, использование лазерного источника света в музыкальном инструменте взамен струн, аддитивное смешение цветов с помощью светофильтров, механические передачи с различным передаточным отношением, модель солнечной системы и многое другое.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Посетители «Наукограда» получат возможность испытать свои шансы стать космонавтом с помощью интерактивного игрового симулятора ведения воздушных полетов и звёздных боев, интерактивного экспоната по изучению аэротрубы и пневморакеты, а также изучить систему питания в космосе. И это далеко не все возможности «Наукограда», ведь в нем будет представлено не менее 30 различных учебных экспонатов, симуляторов и аттракционов.</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#27aae0"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "20px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "20px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7n",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#27aae0",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Океан.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://okean.org",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-11-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-13-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-7o",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-7p",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "Океан.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
+        }
+      ]
+    },
+    "ккз2020ан.html": {
+      "settings": {
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
+        "order": 11
+      },
+      "components": [
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#27aae0"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#27aae0",
+              "text-align": "left"
+            },
+            ".mbr-article UL": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-7u",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "<br>Сinema-concert hall",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>It is planned to reconstruct cinema-concert hall of housing “Brigantine” completely within implementation the Program of development of ARCC “Okean” 2014-2020. Also in plans to equip the hall with the modern sound and light equipment. \nThe special attention is costed by the scenic equipment: here will change system of decoration completely and will set up the scenic screen. All of this will lead to a new quality level one of the most favorite places lovers of the “Okean”.<br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#27aae0"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "20px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "20px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7v",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#27aae0",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Океан.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://okean.org",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-11-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-13-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-7w",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-7x",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "Океан.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
+        }
+      ]
+    },
+    "плошадка2020ан.html": {
+      "settings": {
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
+        "order": 11
+      },
+      "components": [
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#27aae0"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#27aae0",
+              "text-align": "left"
+            },
+            ".mbr-article UL": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-8e",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "<br>The platform for summer housings",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>The summer complex of housings “Whale and Tiger” will have a new community space at the nearest time. So there appeared a lighthouse between the housings on the coast of sea, which became a cynosure for lovers of “Okean”. Here will situate not big football stadium and areas for volleyball and basketball. </p><p>\nThe summer stage will complete an architectural ensemble on which children from housings “Tiger” and “Whale” could do their events, meet for games and rehearsals.<br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#27aae0"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "20px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "20px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8f",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#27aae0",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Океан.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://okean.org",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-11-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-13-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-8g",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-8h",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "Океан.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
+        }
+      ]
+    },
+    "этно2020ан.html": {
+      "settings": {
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#27aae0"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "20px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "20px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8i",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#27aae0",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Океан.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://okean.org",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#27aae0"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#27aae0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-8j",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Educational environment “Etnokrug”",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Russia is the country, which has united huge territories and a great number of the people. Each of it  is unique by the nature and all of them are an integral part of Russian culture.\n</p><p>\nAll the year round children of different nationalities gather in the City of childhood. Here they share traditions and legends of their regions through the informal communication. Thanks to unique experience of “Okean” in organization of additional education and implementation of the Program of development 2014-2020 will appear “Etnokrug” in the Center in 2018. It is innovative environment, which combine ethnic images and modern educational technologies. “Etnokrug” will become tiny reflection of our huge and multicultural country. Each child who came here will be able to see wealth and variety of the Russian Federation, visually present beauty and singularity of the small homeland, to make a personal contribution in creation of its image. </p><p>\nThere will be allocated six zones-modules on the territory of multifunctional educational platform. Five zones will be allocated by cultural geographically principle: European, Caucasian, Ural, Siberian, Far East areas. The sixth zone is multicultural and uniting.</p><p> \n\nEuropean module will be devoted to the people who lives in west part of Russia, which characterized by complex alloy of the ethnic phenomena and processes. Acquaintance to this zone can help understand beginnings of national outlook.\n</p><p>Caucasian module plays an important role in politics and culture of Russia. These region is connected with military valor and feats in the national worldview. Ural module is organically connects the past, present and future of the state's economic power. Siberian module is the discovery of Asian Russia. Far East region allows not only meet with the farthest region for Russians but to strengthen the frontier of the state on ideological level. </p><p>\nThe sixth module is necessary like connecting link which unites various regions and people at single mental field of the state. This place will become a symbol of multiculturalism, which shows equality and mutual respect.</p><p>\n</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide1-small.jpg",
+                "image": "images/slide1.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide2-small.jpg",
+                "image": "images/slide2.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide3-small.jpg",
+                "image": "images/slide3.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide4-small.jpg",
+                "image": "images/slide4.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide5-small.jpg",
+                "image": "images/slide5.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide6-small.jpg",
+                "image": "images/slide6.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide8-small.jpg",
+                "image": "images/slide8.jpg"
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-8k",
+          "articleLayout": true
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-8l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "Океан.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>Адресс</strong><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><b>Контакты</b><br>E-mail:<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">Разработано сектором поддержки Веб - ресурсов ФГБОУ ВДЦ \"Океан\"</span><br></p>"
+        }
+      ]
+    },
+    "page35.html": {
+      "settings": {
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#27aae0"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "20px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "20px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8u",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#27aae0",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Океан.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://okean.org",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"английски.html\">English</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#27aae0"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#27aae0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-8v",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Educational environment “Etnokrug”",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Russia is the country, which has united huge territories and a great number of the people. Each of it  is unique by the nature and all of them are an integral part of Russian culture.\n</p><p>\nAll the year round children of different nationalities gather in the City of childhood. Here they share traditions and legends of their regions through the informal communication. Thanks to unique experience of “Okean” in organization of additional education and implementation of the Program of development 2014-2020 will appear “Etnokrug” in the Center in 2018. It is innovative environment, which combine ethnic images and modern educational technologies. “Etnokrug” will become tiny reflection of our huge and multicultural country. Each child who came here will be able to see wealth and variety of the Russian Federation, visually present beauty and singularity of the small homeland, to make a personal contribution in creation of its image. </p><p>\nThere will be allocated six zones-modules on the territory of multifunctional educational platform. Five zones will be allocated by cultural geographically principle: European, Caucasian, Ural, Siberian, Far East areas. The sixth zone is multicultural and uniting.</p><p> \n\nEuropean module will be devoted to the people who lives in west part of Russia, which characterized by complex alloy of the ethnic phenomena and processes. Acquaintance to this zone can help understand beginnings of national outlook.\n</p><p>Caucasian module plays an important role in politics and culture of Russia. These region is connected with military valor and feats in the national worldview. Ural module is organically connects the past, present and future of the state's economic power. Siberian module is the discovery of Asian Russia. Far East region allows not only meet with the farthest region for Russians but to strengthen the frontier of the state on ideological level. </p><p>\nThe sixth module is necessary like connecting link which unites various regions and people at single mental field of the state. This place will become a symbol of multiculturalism, which shows equality and mutual respect.</p><p>\n</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide1-small.jpg",
+                "image": "images/slide1.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide2-small.jpg",
+                "image": "images/slide2.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide3-small.jpg",
+                "image": "images/slide3.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide4-small.jpg",
+                "image": "images/slide4.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide5-small.jpg",
+                "image": "images/slide5.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide6-small.jpg",
+                "image": "images/slide6.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide8-small.jpg",
+                "image": "images/slide8.jpg"
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-8w",
+          "articleLayout": true
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-8x",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "2",
