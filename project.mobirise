@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ФГБОУ ВДЦ",
-    "currentPage": "2020.html",
+    "currentPage": "Океан.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -506,7 +506,7 @@
               "src": "@PROJECT_PATH@/assets/images/10-600x414.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "спорт.html",
+              "link": "шд.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
