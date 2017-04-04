@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ФГБОУ ВДЦ",
-    "currentPage": "этно.html",
+    "currentPage": "Океан.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -10,7 +10,7 @@
     "versionFirst": "3.11.1",
     "uniqCompNum": 326,
     "versionPublish": "3.11.1",
-    "favicon": "@PROJECT_PATH@/assets/images/-128x85.png",
+    "favicon": "@PROJECT_PATH@/assets/images/128x85.png",
     "noImageResize": ""
   },
   "pages": {
@@ -66,7 +66,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "ФГБОУ ВДЦ ",
@@ -86,7 +86,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -293,7 +293,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-600x849.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x849.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "китенок.html",
@@ -770,7 +770,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_300%202-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-300-2-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -852,7 +852,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -885,7 +885,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-1400x152.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x152.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1000,7 +1000,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1020,7 +1020,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -1033,14 +1033,14 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-5-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-5-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-5-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-5-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-9034-edit-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg_9034-edit-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9034-edit-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9034-edit-2000x1333.jpg",
                 "active": false
               },
               {
@@ -1058,7 +1058,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/img-0895-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img_0895-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0895-2000x1333.jpg",
                 "active": false
               },
               {
@@ -1070,7 +1070,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9642-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img_9642-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-9642-2000x1333.jpg",
                 "active": false
               },
               {
@@ -1116,7 +1116,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1185,7 +1185,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
@@ -1205,7 +1205,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -1344,7 +1344,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1468,7 +1468,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1--600x329.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1-600x329.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "Подворье.html",
@@ -1599,7 +1599,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1619,7 +1619,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -1650,7 +1650,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1719,7 +1719,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1739,7 +1739,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -1823,7 +1823,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1892,7 +1892,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1912,7 +1912,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -2051,7 +2051,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2120,7 +2120,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
@@ -2140,7 +2140,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -2279,7 +2279,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2348,7 +2348,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2368,7 +2368,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -2507,7 +2507,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2576,7 +2576,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2596,7 +2596,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -2735,7 +2735,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2804,7 +2804,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2824,7 +2824,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -2887,26 +2887,26 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-1-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-1-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-1-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-2-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-3-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-3-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-3-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-3-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-4-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-4-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-4-2000x1333.jpg",
                 "active": false
               },
               {
@@ -2924,7 +2924,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2653web-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img_2653web-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2653web-2000x1333.jpg",
                 "active": false
               },
               {
@@ -2970,7 +2970,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -3039,7 +3039,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -3059,7 +3059,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -3198,7 +3198,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -3267,7 +3267,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -3287,7 +3287,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -3303,7 +3303,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202017-03-09%20%D0%B2%2016-1400x1063.png",
+              "src": "@PROJECT_PATH@/assets/images/-2017-03-09-16-1400x1063.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -3346,7 +3346,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -3415,7 +3415,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -3435,7 +3435,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -3451,7 +3451,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202017-03-09%20%D0%B2%2016-1400x1062.png",
+              "src": "@PROJECT_PATH@/assets/images/-2017-03-09-16-1400x1062.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -3494,7 +3494,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -3563,7 +3563,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -3583,7 +3583,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -3599,7 +3599,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202017-03-09%20%D0%B2%2016-1400x1067.png",
+              "src": "@PROJECT_PATH@/assets/images/-2017-03-09-16-1400x1067.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -3642,7 +3642,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -3711,7 +3711,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -3731,7 +3731,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -3747,7 +3747,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202017-03-09%20%D0%B2%2017-1400x886.png",
+              "src": "@PROJECT_PATH@/assets/images/-2017-03-09-17-1400x886.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "файс.html",
@@ -3790,7 +3790,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -3913,7 +3913,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -3933,7 +3933,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -3947,50 +3947,50 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-8-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-6-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-7-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-9-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-10-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-11-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-11-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-12-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-13-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-13-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333.jpg",
                 "active": true
               }
             ],
@@ -4031,7 +4031,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -4099,7 +4099,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -4119,7 +4119,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -4258,7 +4258,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -4377,7 +4377,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -4397,7 +4397,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -4410,14 +4410,14 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-5-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-5-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-5-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-5-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-9034-edit-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg_9034-edit-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9034-edit-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9034-edit-2000x1333.jpg",
                 "active": false
               },
               {
@@ -4435,7 +4435,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/img-0895-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img_0895-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0895-2000x1333.jpg",
                 "active": false
               },
               {
@@ -4447,7 +4447,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/img-9642-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img_9642-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-9642-2000x1333.jpg",
                 "active": false
               },
               {
@@ -4493,7 +4493,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -4562,7 +4562,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -4582,7 +4582,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -4721,7 +4721,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -4790,7 +4790,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -4810,7 +4810,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -4949,7 +4949,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -5018,7 +5018,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
@@ -5038,7 +5038,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -5177,7 +5177,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -5246,7 +5246,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -5266,7 +5266,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -5405,7 +5405,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -5473,7 +5473,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -5493,7 +5493,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -5632,7 +5632,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -5704,7 +5704,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "ФГБОУ ВДЦ ",
@@ -5724,7 +5724,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -5931,7 +5931,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-600x849.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x849.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "китан.html",
@@ -6408,7 +6408,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_300%202-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-300-2-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -6490,7 +6490,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -6523,7 +6523,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-1400x152.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x152.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -6588,7 +6588,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -6608,7 +6608,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -6671,26 +6671,26 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-1-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-1-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-1-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-2-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-3-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-3-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-3-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-3-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-4-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-4-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-4-2000x1333.jpg",
                 "active": false
               },
               {
@@ -6708,7 +6708,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2653web-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img_2653web-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2653web-2000x1333.jpg",
                 "active": false
               },
               {
@@ -6754,7 +6754,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -6823,7 +6823,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -6843,7 +6843,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -6982,7 +6982,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -7106,7 +7106,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1--600x329.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1-600x329.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "подворьеан.html",
@@ -7237,7 +7237,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -7257,7 +7257,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -7288,7 +7288,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -7357,7 +7357,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
@@ -7377,7 +7377,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -7516,7 +7516,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -7639,7 +7639,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -7659,7 +7659,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -7673,50 +7673,50 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-8-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-6-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-7-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-9-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-10-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-11-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-11-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-12-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-13-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-13-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333.jpg",
                 "active": true
               }
             ],
@@ -7757,7 +7757,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -7825,7 +7825,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -7845,7 +7845,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -7984,7 +7984,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -8107,7 +8107,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -8127,7 +8127,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -8141,50 +8141,50 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-8-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-6-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-7-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-9-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-10-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-11-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-11-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-12-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-13-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-13-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333.jpg",
                 "active": true
               }
             ],
@@ -8225,7 +8225,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -8348,7 +8348,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -8368,7 +8368,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -8382,50 +8382,50 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-8-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-6-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-7-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-9-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-10-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-11-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-11-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-12-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-13-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-13-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333.jpg",
                 "active": true
               }
             ],
@@ -8466,7 +8466,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -8589,7 +8589,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -8609,7 +8609,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"этно2020ан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -8623,50 +8623,50 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-8-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-6-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-7-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-9-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-10-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-11-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-11-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-12-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-13-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-13-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333.jpg",
                 "active": true
               }
             ],
@@ -8707,7 +8707,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -8830,7 +8830,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -8850,7 +8850,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -8864,50 +8864,50 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-8-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-6-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-6-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-7-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-7-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-9-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-10-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-10-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-11-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-11-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-11-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-12-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-12-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/_mg-13-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-13-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333.jpg",
                 "active": true
               }
             ],
@@ -8948,7 +8948,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -9016,7 +9016,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -9036,7 +9036,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -9175,7 +9175,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -9243,7 +9243,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-192x128.png",
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -9263,7 +9263,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"китай.html\">中国</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -9402,7 +9402,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-265x176.png",
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
