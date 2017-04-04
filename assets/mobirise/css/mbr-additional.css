@@ -899,7 +899,6 @@
 
 
 
-
 #ext_menu-6h .mbr-brand__name {
   font-size: 16px;
 }
@@ -949,6 +948,9 @@
   font-size: 25px;
   font-family: 'Roboto Slab', serif;
 }
+#msg-box4-6l .mbr-article B {
+  font-size: 22px;
+}
 #form1-6m .mbr-header__text {
   color: #27aae0;
   font-family: 'Roboto Slab', serif;
@@ -956,6 +958,7 @@
 #msg-box4-6n .mbr-header__text {
   color: #27aae0;
   font-family: 'Roboto Slab', serif;
+  font-size: 22px;
 }
 #msg-box4-6n .mbr-header__subtext {
   color: #ffffff;
@@ -963,11 +966,10 @@
 #msg-box4-6n .mbr-article {
   color: #ffffff;
 }
-#social-buttons2-6o .mbr-header__text SPAN {
-  font-size: 14px;
+#social-buttons2-92 .mbr-header__text SPAN {
+  font-size: 16px;
   color: #27aae0;
-  text-align: right;
-  font-family: 'Roboto Slab', serif;
+  text-align: center;
 }
 #contacts1-6p P {
   color: #27aae0;
