@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "ФГБОУ ВДЦ",
-    "currentPage": "2020ан.html",
+    "currentPage": "Океан.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 327,
+    "uniqCompNum": 337,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/128x85.png",
     "noImageResize": ""
@@ -22,7 +22,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -834,13 +834,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-7",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -867,9 +867,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
@@ -906,7 +906,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1098,13 +1098,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-7",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1131,9 +1131,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -1141,7 +1141,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 4
+        "order": 7
       },
       "components": [
         {
@@ -1326,13 +1326,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-7",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1359,9 +1359,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -1369,7 +1369,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 10
+        "order": 19
       },
       "components": [
         {
@@ -1632,13 +1632,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-4f",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1665,9 +1665,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -1675,7 +1675,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 17
+        "order": 31
       },
       "components": [
         {
@@ -1805,13 +1805,14 @@
             "P": {
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-1y",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1838,9 +1839,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -1848,7 +1849,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -2033,13 +2034,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-43",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -2066,9 +2067,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -2076,7 +2077,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 6
+        "order": 11
       },
       "components": [
         {
@@ -2261,13 +2262,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-7",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -2294,9 +2295,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -2304,7 +2305,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 5
+        "order": 9
       },
       "components": [
         {
@@ -2489,13 +2490,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-46",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -2522,9 +2523,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -2532,7 +2533,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 7
+        "order": 13
       },
       "components": [
         {
@@ -2717,13 +2718,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-49",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -2750,9 +2751,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -2760,7 +2761,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 8
+        "order": 15
       },
       "components": [
         {
@@ -2952,13 +2953,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-4c",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -2985,9 +2986,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -2995,7 +2996,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 9
+        "order": 17
       },
       "components": [
         {
@@ -3180,13 +3181,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-4f",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -3213,9 +3214,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -3223,7 +3224,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 12
+        "order": 27
       },
       "components": [
         {
@@ -3328,13 +3329,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-4h",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -3361,9 +3362,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -3371,7 +3372,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 13
+        "order": 28
       },
       "components": [
         {
@@ -3476,13 +3477,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-4l",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -3509,9 +3510,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -3519,7 +3520,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 14
+        "order": 29
       },
       "components": [
         {
@@ -3624,13 +3625,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-4o",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -3657,9 +3658,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -3667,7 +3668,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 15
+        "order": 30
       },
       "components": [
         {
@@ -3772,13 +3773,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-4r",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -3805,9 +3806,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -3815,7 +3816,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 11
+        "order": 21
       },
       "components": [
         {
@@ -4013,13 +4014,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-4t",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -4046,16 +4047,17 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
     "Подворье.html": {
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
-        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
+        "order": 32
       },
       "components": [
         {
@@ -4240,13 +4242,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-57",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -4273,9 +4275,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -4283,7 +4285,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -4475,13 +4477,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
-          "_anchor": "contacts1-5f",
+          "_anchor": "contacts1-91",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -4508,9 +4510,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -4518,7 +4520,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 3
+        "order": 6
       },
       "components": [
         {
@@ -4703,13 +4705,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
-          "_anchor": "contacts1-5o",
+          "_anchor": "contacts1-91",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -4736,9 +4738,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -4746,7 +4748,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 5
+        "order": 10
       },
       "components": [
         {
@@ -4931,13 +4933,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
-          "_anchor": "contacts1-5s",
+          "_anchor": "contacts1-91",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -4964,9 +4966,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -4974,7 +4976,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 6
+        "order": 12
       },
       "components": [
         {
@@ -5159,13 +5161,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-5w",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -5192,9 +5194,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -5202,7 +5204,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 7
+        "order": 14
       },
       "components": [
         {
@@ -5387,13 +5389,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-64",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -5420,16 +5422,17 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
     "подворьеан.html": {
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
-        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
+        "order": 33
       },
       "components": [
         {
@@ -5608,19 +5611,16 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts2",
           "_styles": {
             "P": {
-              "color": "#27aae0",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "color": "#27aae0"
             }
           },
-          "_anchor": "contacts1-6c",
+          "_anchor": "contacts2-94",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -5628,28 +5628,16 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "Океан.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "ВДЦ \"Океан\"",
+              "placeId": "ChIJi3AaVJm_s18RpmbPenQMw10",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong>ADDRESS</strong><br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>\n<strong><br></strong><br><strong>CONTACTS</strong><br>E-mail: <br>info@okean.org <br>press@okean.org <br><br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>"
         }
       ]
     },
@@ -6474,13 +6462,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-6p",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -6507,9 +6495,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
@@ -6539,6 +6527,38 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-94",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "ВДЦ \"Океан\"",
+              "placeId": "ChIJi3AaVJm_s18RpmbPenQMw10",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>\n<strong><br></strong><br><strong>CONTACTS</strong><br>E-mail: <br>info@okean.org <br>press@okean.org <br><br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_styles": {
+            "P": {
+              "color": "#27aae0"
+            }
+          }
         }
       ]
     },
@@ -6546,7 +6566,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 8
+        "order": 16
       },
       "components": [
         {
@@ -6738,13 +6758,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-6u",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -6771,9 +6791,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -6781,7 +6801,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 9
+        "order": 18
       },
       "components": [
         {
@@ -6966,13 +6986,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-6y",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -6999,9 +7019,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -7009,7 +7029,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 10
+        "order": 20
       },
       "components": [
         {
@@ -7272,13 +7292,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-71",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -7305,9 +7325,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -7315,7 +7335,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 4
+        "order": 8
       },
       "components": [
         {
@@ -7500,13 +7520,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-75",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -7533,9 +7553,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -7543,7 +7563,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 11
+        "order": 22
       },
       "components": [
         {
@@ -7741,13 +7761,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-7d",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -7774,16 +7794,17 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
     "этно.html": {
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
-        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
+        "order": 34
       },
       "components": [
         {
@@ -7968,13 +7989,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-7h",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -8001,9 +8022,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -8011,7 +8032,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 11
+        "order": 23
       },
       "components": [
         {
@@ -8209,13 +8230,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-7l",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -8242,9 +8263,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -8252,7 +8273,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 11
+        "order": 24
       },
       "components": [
         {
@@ -8450,13 +8471,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-7p",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -8483,9 +8504,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -8493,7 +8514,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 11
+        "order": 25
       },
       "components": [
         {
@@ -8691,13 +8712,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-7x",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -8724,9 +8745,9 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -8734,7 +8755,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 11
+        "order": 26
       },
       "components": [
         {
@@ -8932,13 +8953,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-8h",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -8965,16 +8986,17 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
         }
       ]
     },
     "этно2020ан.html": {
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
-        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
+        "order": 35
       },
       "components": [
         {
@@ -9153,19 +9175,16 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts2",
           "_styles": {
             "P": {
-              "color": "#27aae0",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "color": "#27aae0"
             }
           },
-          "_anchor": "contacts1-8l",
+          "_anchor": "contacts2-94",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -9173,35 +9192,24 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "Океан.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "ВДЦ \"Океан\"",
+              "placeId": "ChIJi3AaVJm_s18RpmbPenQMw10",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong>ADDRESS</strong><br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>\n<strong><br></strong><br><strong>CONTACTS</strong><br>E-mail: <br>info@okean.org <br>press@okean.org <br><br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>"
         }
       ]
     },
     "page35.html": {
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
-        "meta_descr": "ФГБОУ ВДЦ \"Океан\""
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
+        "order": 36
       },
       "components": [
         {
@@ -9386,13 +9394,13 @@
               "color": "#27aae0",
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_anchor": "contacts1-91",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -9419,9 +9427,222 @@
               "size": 0
             }
           },
-          "text1": "<strong><br></strong><br><strong><br></strong>Adress&nbsp;<br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>",
-          "text2": "<strong><br></strong><br><strong><br></strong>Contacts<br>E-mail:\n<br>info@okean.org <br>\npress@okean.org\n<br><br>+7 (423) 230-41-60 – reception\n<br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p><p><br></p>"
+          "text1": "<strong><br></strong><br><br><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong><br><strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
+        }
+      ]
+    },
+    "page36.html": {
+      "settings": {
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
+        "order": 37
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#27aae0"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "20px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "20px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-96",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#27aae0",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "",
+              "link": "Океанан.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://okean.org",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#27aae0"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#27aae0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-97",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "“Parus” Division-Flotilla",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;The unusual building of the division-flotilla “Parus” (The Sail) is situated just 150 meters off the coastline. It consists of five buildings named “Frigate”, “Caravelle”, “Brig”, “Corvette”, and “Clipper”. All of them resemble sea vessels. The original design of the internal space is created by the interior of the living quarters that accommodate up to eight people. Each compartment has its own mascot. </p><p>&nbsp;&nbsp;&nbsp;&nbsp;Multiple levels, numerous gallery decks and stairs create a special route that can turn children’s stay into an exciting game with its own rules and rituals. There are viewing and walking decks, as well as sports playgrounds on board of this division-flotilla.\r</p><p>&nbsp;&nbsp;&nbsp;&nbsp;“Parus” hosts up to 500 children each session. It offers different thematic programs, such as “The Pacific Project School”, “Serving Russia”, “Russian Uprise”, “Young Diplomat”, “The Facets of Mastery”, and others.\r</p><p>&nbsp;&nbsp;&nbsp;&nbsp;The official grand opening ceremony of the public center at the division-flotilla “Parus” is planned for June 1, 2017.  The public center includes a canteen for 650 people, the center for Virtual/Augmented reality (VR/AR), a medical center, a wardrobe, a stage and a spacious hall.\r</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide1-small.jpg",
+                "image": "images/slide1.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide2-small.jpg",
+                "image": "images/slide2.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide3-small.jpg",
+                "image": "images/slide3.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide4-small.jpg",
+                "image": "images/slide4.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide5-small.jpg",
+                "image": "images/slide5.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide6-small.jpg",
+                "image": "images/slide6.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide8-small.jpg",
+                "image": "images/slide8.jpg"
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-98",
+          "articleLayout": true
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#27aae0"
+            }
+          },
+          "_anchor": "contacts2-94",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "ВДЦ \"Океан\"",
+              "placeId": "ChIJi3AaVJm_s18RpmbPenQMw10",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorskii krai<br>\n<strong><br></strong><br><strong>CONTACTS</strong><br>E-mail: <br>info@okean.org <br>press@okean.org <br><br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities&nbsp;<br>",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>"
         }
       ]
     }
