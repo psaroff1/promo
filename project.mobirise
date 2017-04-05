@@ -200,8 +200,372 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/123-9-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-15-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-16-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-17-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-18-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-13-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-19-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-20-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-21-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-12-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-14-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-22-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-23-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-24-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-25-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-26-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-27-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-28-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-29-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-30-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-31-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-32-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-33-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-34-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-10-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-15-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-35-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/123-36-2000x1000.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/123-37-2000x1000.jpg",
                 "contentAlign": "right",
                 "overlay": false,
                 "overlayColor": "#ffffff",
@@ -240,7 +604,7 @@
           "_anchor": "features1-5",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%201xxxhdpi-2000x509.png",
@@ -433,7 +797,7 @@
           "_anchor": "features1-3k",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "file:///Users/denis/Library/Application%20Support/Mobirise.com/Mobirise/projectData/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%201xxxhdpi-2000x509.png",
@@ -1265,7 +1629,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13330.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x133334.jpg",
                 "active": true
               },
               {
@@ -1477,7 +1841,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x3591.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x35935.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "Подворье.html",
@@ -2209,7 +2573,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x133336.jpg",
                 "active": false
               },
               {
@@ -2439,13 +2803,7 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/img-21-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-21-2000x1333.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-2000x1334.jpg",
-                "active": false
+                "active": true
               },
               {
                 "caption": "Type caption here",
@@ -2475,7 +2833,13 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/doc54445887-443683884-1-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/doc54445887-443683884-1-2000x1333.jpg",
-                "active": true
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1250-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1250.jpg",
+                "active": false
               }
             ],
             "showText": false,
@@ -2653,7 +3017,7 @@
           },
           "title": "Школа ВДЦ «Океан»",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Школа\nВДЦ «Океан» работает в рамках целостного образовательного процесса разработки и реализации тематических программ Центра. </p><p>\n&nbsp;&nbsp;&nbsp;&nbsp;Основная цель школы ВДЦ «Океан» – создание условий для качественного усвоения содержания образовательных программ в соответствии с уровнем образования и воспитания школьников.\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Океанская школа – это школа активного познания обучающихся без домашнего задания. Разнообразие форм и видов деятельности на уроках, содержание метапредметных учебных модулей, учебно-тренировочные сессии, работа проблемных лабораторий и дискуссионных площадок позволяют обучающимся выстраивать индивидуальные образовательные траектории. По окончании учебных занятий учащиеся получают «Ведомость оценки знаний» и Портфолио учебных достижений.\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;За годы работы в школе сформировался квалифицированный и творческий коллектив педагогов-единомышленников, среди которых молодые и опытные учителя, победители конкурсов профессионального мастерства различных уровней, учителя, имеющие звания «Заслуженный учитель», «Почётный работник общего образования РФ».\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Педагогический коллектив реализует государственные программы основного общего и среднего общего образования. Разрабатываемые и применяемые образовательные методики максимально направлены на поддержку каждого учащегося в освоении ФГОС по основным предметам. В соответствии с Уставом ФГБОУ ВДЦ «Океан» и осуществляемыми видами деятельности занятия по «Искусству», «Технологии», «Основам безопасности жизнедеятельности», «Физической культуре» включены в расписание дополнительного образования детей.\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Одним из приоритетных направлений образовательного процесса является организация и проведение учебно-исследовательской и проектной деятельности обучающихся 6–11 классов.\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;В рамках Программы развития ФГБОУ ВДЦ «Океан» до 2020 года создана учебно-исследовательская лаборатория, в которой проводятся междисциплинарные практикумы по естествознанию. Лаборатория языковых исследований предназначена для проведения всех видов учебной работы: интерактивных лекций, семинаров, практических и лабораторных работ по всему спектру преподаваемых дисциплин гуманитарного направления.\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Учебные кабинеты школы оснащены современными техническими средствами (интерактивными электронными досками, проекторами, компьютерами, физической и химической лабораториями), разнообразными дидактическими материалами, учебниками, дополнительной справочной литературой. В кабинетах иностранных языков установлено современное лингафонное оборудование. </p><p>\n&nbsp;&nbsp;&nbsp;&nbsp;Всё это помогает сделать учебный процесс интенсивным и разнообразным, а учёбу – интересной, увлекательной и радостной!\n</p>",
+          "text": "<p>&nbsp; &nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Океанская школа – это школа активного познания обучающихся без домашнего задания. Разнообразие форм и видов деятельности на уроках, содержание метапредметных учебных модулей, учебно-тренировочные сессии, работа проблемных лабораторий и дискуссионных площадок позволяют обучающимся выстраивать индивидуальные образовательные траектории. По окончании учебных занятий учащиеся получают «Ведомость оценки знаний» и Портфолио учебных достижений.\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; Педагогический коллектив реализует государственные программы основного общего и среднего общего образования. Разрабатываемые и применяемые образовательные методики максимально направлены на поддержку каждого учащегося в освоении ФГОС по основным предметам. В соответствии с Уставом ФГБОУ ВДЦ «Океан» и осуществляемыми видами деятельности занятия по «Искусству», «Технологии», «Основам безопасности жизнедеятельности», «Физической культуре» включены в расписание дополнительного образования детей.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Одним из приоритетных направлений образовательного процесса является организация и проведение учебно-исследовательской и проектной деятельности обучающихся 6–11 классов.\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;В рамках Программы развития ФГБОУ ВДЦ «Океан» до 2020 года создана учебно-исследовательская лаборатория, в которой проводятся междисциплинарные практикумы по естествознанию. Лаборатория языковых исследований предназначена для проведения всех видов учебной работы: интерактивных лекций, семинаров, практических и лабораторных работ по всему спектру преподаваемых дисциплин гуманитарного направления.\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Учебные кабинеты школы оснащены современными техническими средствами (интерактивными электронными досками, проекторами, компьютерами, физической и химической лабораториями), разнообразными дидактическими материалами, учебниками, дополнительной справочной литературой. В кабинетах иностранных языков установлено современное лингафонное оборудование. </p><p>\n&nbsp;&nbsp;&nbsp;&nbsp;Всё это помогает сделать учебный процесс интенсивным и разнообразным, а учёбу – интересной, увлекательной и радостной!\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -2881,7 +3245,7 @@
           },
           "title": "Спорт и здоровье",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Спорт и здоровье\nОсобой популярностью среди школьников пользуются спортивно-оздоровительные программы. Утренняя гимнастика, прогулки по побережью, подвижные игры, катание на коньках и велосипедах формируют привычку к здоровому образу жизни. Купание в море или бассейне, игры на свежем воздухе и физические упражнения закаляют детей и способствуют общему оздоровлению организма.\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;За время существования «Океана» многое было сделано для физического воспитания детей и развития детского спорта. Сейчас в Центре создана прекрасная инфраструктура и наработан богатейший опыт. Здесь есть современный бассейн с шестью дорожками, где детей учат держаться на воде и погружаться с помощью аппарата для подводного плавания «Power Dive»; дворец тенниса, где помимо столов для настольного тенниса есть корт для игры в большой теннис, который легко трансформируется в две площадки для бадминтона; ледовый дворец с покрытием из синтетического льда; физкультурно-оздоровительный комплекс, предназначенный для общефизической и атлетической подготовки, художественной и ритмической гимнастики, волейбола, баскетбола, гандбола и мини-футбола; большой футбольный стадион с высококлассным покрытием, снижающим риск травматизма; четыре открытые волейбольные и баскетбольные площадки, площадки для игр и уличные тренажёры. </p><p>\n&nbsp;&nbsp;&nbsp;&nbsp;В 2016 году начал свою работу отдел технических и водных видов спорта, на базе которого работают новые спортивные секции:\n</p><p>–\tлазертаг – это и новый вид активного отдыха, и захватывающая игра, и соревнование. Благодаря новейшим компьютерным технологиям это самая гуманная игра из всех активных военно-тактических. Её суть в том, чтобы поразить противника абсолютно безопасным инфракрасным лучом. Поражение происходит путём регистрации луча бластера-автомата специальными датчиками оппонента, закреплёнными на одежде игрока или на специальном жилете;\n</p><p>–\tкатание на сегвеях – новом экологически чистом и безопасном транспортном средстве, в основу которого входит система автобалансировки, удерживающая человека в равновесии на двух параллельных колёсах с вертикальным рулём. Управление ведётся перемещением центра тяжести тела;\n</p><p>–\tбезопасное управление квадроциклами на специально оборудованной трассе под руководством опытных инструкторов;\n</p><p>–\tворкаут – выполнение различных упражнений на уличных спортплощадках: турниках, горизонтальных лестницах, шведских стенках, брусьях и других конструкциях;\n–\tкроссфит – программа тренировок, состоящая из упражнений высокой интенсивности для людей различного уровня спортивной подготовки, развивающая выносливость, силу, гибкость, скорость, координацию, точность, а также улучшающая работоспособность сердечно-сосудистой и дыхательной систем;\n</p><p>–\tлазерный тир, где ребята в игровой форме учатся основам стрелковой подготовки;</p><p>– электроскутеры – ещё один вид современного экологически чистого транспортного средства. Дети и подростки катаются в детском экспериментальном автогороде с соблюдением всех правил дорожного движения;\n</p><p>–\tориент-шоу – новый зрелищный вид спортивного ориентирования, отличающийся от классического тем, что спортсмены ориентируются на маленькой площадке среди искусственных препятствий. Спортивный лабиринт помогает освоить азы ориентирования новичкам.\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Совсем скоро океанцы получат возможность отрабатывать навыки альпинизма в верёвочном парке приключений, смогут тренироваться на новом стадионе летнего комплекса «Тигрёнок – Китёнок», ходить под парусом. Во Дворце спорта ребята занимаются самбо и дзюдо на профессиональном борцовском ковре, подаренном Центру Вениамином Шаевичем Кагановым – заместителем министра образования и науки Российской Федерации. Здесь же проходит Фестиваль борьбы.\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;В «Океане» уже давно создана футбольная команда с одноимённым названием, в составе которой играют сотрудники вместе с директором Андреем Базилевским. Команда регулярно защищает честь Центра на товарищеских встречах и соревнованиях различного уровня. В 2015 году их игра дала старт IV Открытому чемпионату Артёмовского городского округа по мини-футболу. Океанские футболисты провели 17 игр с 18 командами из Вьетнама, Владивостока, Артёма, Надеждинского района, посёлка Трудового и воинских частей Приморского края. В этом году команда проявила себя в традиционной зимней Бизнес-спартакиаде Приморья. В ней участвовали более 300 представителей 17 приморских компаний. В личном зачёте команда «Океан» боролась за победу с пятью футбольными командами  и по итогам соревнований заняла второе место.\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;ВДЦ «Океан» является тренировочной базой для многих известных спортивных юношеских команд. Здесь тренировались футбольные команды «Gangeung Munseong High School soccer team» (Республика Корея), «Yanbian Sports School» (Китайская Народная Республика), «Albirex» (Япония, г. Ниигата) и команда «Нефтяник» из Хабаровского края, юные хоккеисты из младшего состава команды «Адмирал» и ребята из владивостокской хоккейной команды «Полюс». А на базе океанского бассейна участники программы «Юные спасатели» ежегодно учатся правильно действовать во время чрезвычайных ситуаций на воде и спасать людей.\n</p>",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; За время существования «Океана» многое было сделано для физического воспитания детей и развития детского спорта. Сейчас в Центре создана прекрасная инфраструктура и наработан богатейший опыт. Здесь есть современный бассейн с шестью дорожками, где детей учат держаться на воде и погружаться с помощью аппарата для подводного плавания «Power Dive»; дворец тенниса, где помимо столов для настольного тенниса есть корт для игры в большой теннис, который легко трансформируется в две площадки для бадминтона; ледовый дворец с покрытием из синтетического льда; физкультурно-оздоровительный комплекс, предназначенный для общефизической и атлетической подготовки, художественной и ритмической гимнастики, волейбола, баскетбола, гандбола и мини-футбола; большой футбольный стадион с высококлассным покрытием, снижающим риск травматизма; четыре открытые волейбольные и баскетбольные площадки, площадки для игр и уличные тренажёры.</p><p>\n&nbsp;&nbsp;&nbsp;&nbsp;В 2016 году начал свою работу отдел технических и водных видов спорта, на базе которого работают новые спортивные секции:\n</p><p>–\tлазертаг&nbsp;</p><p>–\tкатание на сегвеях&nbsp;</p><p>–\tбезопасное управление квадроциклами на специально оборудованной трассе под руководством опытных инструкторов;\n</p><p>–\tворкаут–\tлазерный тир, где ребята в игровой форме учатся основам стрелковой подготовки;</p><p>– электроскутеры;\n</p><p>–\tориент-шоу .\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Совсем скоро океанцы получат возможность отрабатывать навыки альпинизма в верёвочном парке приключений, смогут тренироваться на новом стадионе летнего комплекса «Тигрёнок – Китёнок», ходить под парусом. Во Дворце спорта ребята занимаются самбо и дзюдо на профессиональном борцовском ковре, подаренном Центру Вениамином Шаевичем Кагановым – заместителем министра образования и науки Российской Федерации. Здесь же проходит Фестиваль борьбы.\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp;ВДЦ «Океан» является тренировочной базой для многих известных спортивных юношеских команд. Здесь тренировались футбольные команды «Gangeung Munseong High School soccer team» (Республика Корея), «Yanbian Sports School» (Китайская Народная Республика), «Albirex» (Япония, г. Ниигата) и команда «Нефтяник» из Хабаровского края, юные хоккеисты из младшего состава команды «Адмирал» и ребята из владивостокской хоккейной команды «Полюс». А на базе океанского бассейна участники программы «Юные спасатели» ежегодно учатся правильно действовать во время чрезвычайных ситуаций на воде и спасать людей.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -2936,8 +3300,14 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/123-13-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123-13-2000x1000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/123-14-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123-14-2000x1000.jpg",
                 "active": true
               }
             ],
@@ -5100,7 +5470,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x133336.jpg",
                 "active": false
               },
               {
@@ -7458,7 +7828,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13330.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x133334.jpg",
                 "active": false
               },
               {
@@ -9096,8 +9466,8 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1500-800x6003.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x15004.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1500-800x60037.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x150038.jpg",
                 "active": false
               },
               {
@@ -9319,32 +9689,32 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1250-800x5005.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x125010.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1250-800x50039.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x125044.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1470-800x5886.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x147011.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1470-800x58840.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x147045.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-1-2000x1470-800x5887.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-1-2000x147012.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-1-2000x1470-800x58841.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-1-2000x147046.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1124-800x4498.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x112413.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1124-800x44942.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x112447.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1368-800x5479.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x136814.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1368-800x54743.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x136848.jpg",
                 "active": false
               },
               {
@@ -9495,32 +9865,32 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1250-800x5005.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x125010.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1250-800x50039.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x125044.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1470-800x5886.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x147011.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1470-800x58840.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x147045.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-1-2000x1470-800x5887.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-1-2000x147012.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-1-2000x1470-800x58841.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-1-2000x147046.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1124-800x4498.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x112413.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1124-800x44942.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x112447.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1368-800x5479.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x136814.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1368-800x54743.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x136848.jpg",
                 "active": false
               },
               {
@@ -9671,38 +10041,38 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1250-800x5005.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x125010.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1250-800x50039.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x125044.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1470-800x5886.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x147011.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1470-800x58840.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x147045.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-1-2000x1470-800x5887.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-1-2000x147012.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-1-2000x1470-800x58841.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-1-2000x147046.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1124-800x4498.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x112413.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1124-800x44942.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x112447.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1368-800x5479.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x136814.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1368-800x54743.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x136848.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/2000x1199-800x47915.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x119916.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x1199-800x47949.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x119950.jpg",
                 "active": false
               }
             ],
