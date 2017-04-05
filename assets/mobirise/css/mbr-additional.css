@@ -7,6 +7,7 @@
 
 
 
+
 #ext_menu-2 .mbr-brand__name {
   font-size: 16px;
 }
@@ -39,9 +40,15 @@
   color: #27aae0;
   text-align: center;
   font-family: 'Roboto Slab', serif;
+  font-size: 20px;
 }
 #features1-3k .mbr-section-title .mbr-header__text {
   color: #27aae0;
+}
+#features1-3k .mbr-header__subtext {
+  color: #27aae0;
+  font-size: 25px;
+  font-family: 'Roboto Slab', serif;
 }
 #msg-box4-3t .mbr-header__text {
   color: #27aae0;
@@ -929,9 +936,14 @@
   color: #27aae0;
   text-align: center;
   font-family: 'Roboto Slab', serif;
+  font-size: 20px;
 }
 #features1-6k .mbr-section-title .mbr-header__text {
   color: #27aae0;
+}
+#features1-6k .mbr-header__subtext {
+  color: #27aae0;
+  font-size: 25px;
 }
 #msg-box4-6l .mbr-header__text {
   color: #27aae0;
@@ -973,9 +985,6 @@
   color: #27aae0;
   font-family: 'Roboto Slab', serif;
   font-size: 14px;
-}
-#contacts2-94 P {
-  color: #27aae0;
 }
 
 
@@ -1393,6 +1402,7 @@
   font-size: 14px;
 }
 
+
 #ext_menu-8i .mbr-brand__name {
   font-size: 16px;
 }
@@ -1426,83 +1436,110 @@
 #content5-8j .mbr-article P {
   color: #27aae0;
 }
-#contacts2-94 P {
-  color: #27aae0;
-}
-
-
-#ext_menu-8y .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-8y.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
-}
-#ext_menu-8y .mbr-navbar__section {
-  background: #ffffff;
-}
-#ext_menu-8y .mbr-navbar__hamburger {
-  color: #27aae0;
-}
-#ext_menu-8y .mbr-navbar__items a {
-  font-size: 20px;
-  font-family: 'Roboto Slab', serif;
-}
-#ext_menu-8y .mbr-brand__name a {
-  font-size: 20px;
-}
-#content5-8z .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #27aae0;
-}
-#content5-8z .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-8z .mbr-article {
-  color: #fff;
-}
-#content5-8z .mbr-article P {
-  color: #27aae0;
-}
-#contacts1-91 P {
+#contacts1-7h P {
   color: #27aae0;
   font-family: 'Roboto Slab', serif;
   font-size: 14px;
 }
 
-#ext_menu-96 .mbr-brand__name {
+#ext_menu-9w .mbr-brand__name {
   font-size: 16px;
 }
-#ext_menu-96.mbr-navbar--stuck .mbr-navbar__section {
+#ext_menu-9w.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
-#ext_menu-96 .mbr-navbar__section {
+#ext_menu-9w .mbr-navbar__section {
   background: #ffffff;
 }
-#ext_menu-96 .mbr-navbar__hamburger {
+#ext_menu-9w .mbr-navbar__hamburger {
   color: #27aae0;
 }
-#ext_menu-96 .mbr-navbar__items a {
+#ext_menu-9w .mbr-navbar__items a {
   font-size: 20px;
   font-family: 'Roboto Slab', serif;
 }
-#ext_menu-96 .mbr-brand__name a {
+#ext_menu-9w .mbr-brand__name a {
   font-size: 20px;
 }
-#content5-97 .mbr-header .mbr-header__text {
+#content5-9x .mbr-header .mbr-header__text {
   text-align: center;
   color: #27aae0;
 }
-#content5-97 .mbr-header .mbr-header__subtext {
+#content5-9x .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
-#content5-97 .mbr-article {
+#content5-9x .mbr-article {
   color: #fff;
 }
-#content5-97 .mbr-article P {
+#content5-9x .mbr-article P {
   color: #27aae0;
 }
-#contacts2-94 P {
+
+#ext_menu-9t .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-9t.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-9t .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-9t .mbr-navbar__hamburger {
+  color: #27aae0;
+}
+#ext_menu-9t .mbr-navbar__items a {
+  font-size: 20px;
+  font-family: 'Roboto Slab', serif;
+}
+#ext_menu-9t .mbr-brand__name a {
+  font-size: 20px;
+}
+#content5-9u .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #27aae0;
+}
+#content5-9u .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-9u .mbr-article {
+  color: #fff;
+}
+#content5-9u .mbr-article P {
+  color: #27aae0;
+}
+
+#ext_menu-9z .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-9z.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-9z .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-9z .mbr-navbar__hamburger {
+  color: #27aae0;
+}
+#ext_menu-9z .mbr-navbar__items a {
+  font-size: 20px;
+  font-family: 'Roboto Slab', serif;
+}
+#ext_menu-9z .mbr-brand__name a {
+  font-size: 20px;
+}
+#content5-a0 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #27aae0;
+}
+#content5-a0 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-a0 .mbr-article {
+  color: #fff;
+}
+#content5-a0 .mbr-article P {
   color: #27aae0;
 }
