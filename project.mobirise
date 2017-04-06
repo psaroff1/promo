@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "ФГБОУ ВДЦ",
-    "currentPage": "спорт.html",
+    "currentPage": "Океан.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 371,
+    "uniqCompNum": 373,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/128x85.png",
     "noImageResize": ""
@@ -1714,7 +1714,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333490.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13330.jpg",
                 "active": false
               },
               {
@@ -1950,7 +1950,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x359491.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3591.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "Подворье.html",
@@ -2682,7 +2682,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333492.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13332.jpg",
                 "active": false
               },
               {
@@ -3506,24 +3506,6 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-30-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-30-2000x1333.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-33-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-33-2000x1333.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-35-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-35-2000x1333.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/img-37-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-37-2000x1333.jpg",
                 "active": false
@@ -3536,44 +3518,20 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-38-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-38-2000x1333.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-39-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-39-2000x1333.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/okean-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/okean-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333493.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13334.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333494.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333495.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333496.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13335.jpg",
                 "active": false
               },
               {
@@ -3778,7 +3736,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333497.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13336.jpg",
                 "active": false
               },
               {
@@ -5168,122 +5126,122 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-5-2000x1333-800x533498.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-5-2000x1333518.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-5-2000x1333-800x5337.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-5-2000x133327.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-9034-edit-2000x1333-800x533499.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-9034-edit-2000x1333519.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9034-edit-2000x1333-800x5338.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9034-edit-2000x133328.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/2020programm-2000x1333-800x533500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2020programm-2000x1333520.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2020programm-2000x1333-800x5339.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020programm-2000x133329.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/biblioteka-2000x1333-800x533501.jpg",
-                "image": "@PROJECT_PATH@/assets/images/biblioteka-2000x1333521.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/biblioteka-2000x1333-800x53310.jpg",
+                "image": "@PROJECT_PATH@/assets/images/biblioteka-2000x133330.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0895-2000x1333-800x533502.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-0895-2000x1333522.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0895-2000x1333-800x53311.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0895-2000x133331.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x1333-800x533503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-3-2000x1333523.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x1333-800x53312.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3-2000x133332.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9642-2000x1333-800x533504.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-9642-2000x1333524.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9642-2000x1333-800x53313.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-9642-2000x133333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-4-2000x1333-800x533505.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1333525.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4-2000x1333-800x53314.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4-2000x133334.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-48-2000x1333-800x533506.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-48-2000x1333526.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-48-2000x1333-800x53315.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-48-2000x133335.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-49-2000x1333-800x533507.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-49-2000x1333527.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-49-2000x1333-800x53316.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-49-2000x133336.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-50-2000x1333-800x533508.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-50-2000x1333528.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-50-2000x1333-800x53317.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-50-2000x133337.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-51-2000x1333-800x533509.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-51-2000x1333529.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-51-2000x1333-800x53318.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-51-2000x133338.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-53-2000x1333-800x533510.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-53-2000x1333530.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-53-2000x1333-800x53319.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-53-2000x133339.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x1332-800x532511.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-3-2000x1332531.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x1332-800x53220.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3-2000x133240.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-52-2000x1333-800x533512.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-52-2000x1333532.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-52-2000x1333-800x53321.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-52-2000x133341.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-54-2000x1333-800x533513.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-54-2000x1333533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-54-2000x1333-800x53322.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-54-2000x133342.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-55-2000x1333-800x533514.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-55-2000x1333534.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-55-2000x1333-800x53323.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-55-2000x133343.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-4-2000x1332-800x532515.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1332535.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4-2000x1332-800x53224.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4-2000x133244.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-56-2000x1333-800x533516.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-56-2000x1333536.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-56-2000x1333-800x53325.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-56-2000x133345.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6942-edit-2000x1333-800x533517.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-6942-edit-2000x1333537.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6942-edit-2000x1333-800x53326.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6942-edit-2000x133346.jpg",
                 "active": true
               }
             ],
@@ -5921,98 +5879,98 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-10-2000x1333-800x533538.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-10-2000x1333553.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-10-2000x1333-800x53347.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-10-2000x133362.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9-2000x1333-800x533539.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-9-2000x1333554.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9-2000x1333-800x53348.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-9-2000x133363.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533-6.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333555.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x133364.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-63-2000x1333-800x533540.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-63-2000x1333556.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-63-2000x1333-800x53349.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-63-2000x133365.jpg",
                 "active": true
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1332-800x532541.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1332557.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1332-800x53250.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x133266.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6-2000x1333-800x533542.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-6-2000x1333558.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6-2000x1333-800x53351.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6-2000x133367.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7-2000x1333-800x533543.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-7-2000x1333559.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7-2000x1333-800x53352.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7-2000x133368.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/t-mg-2000x1333-800x533544.jpg",
-                "image": "@PROJECT_PATH@/assets/images/t-mg-2000x1333560.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t-mg-2000x1333-800x53353.jpg",
+                "image": "@PROJECT_PATH@/assets/images/t-mg-2000x133369.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-17-2000x1333-800x533545.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-17-2000x1333561.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-17-2000x1333-800x53354.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-17-2000x133370.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-57-2000x1333-800x533546.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-57-2000x1333562.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-57-2000x1333-800x53355.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-57-2000x133371.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-58-2000x1333-800x533547.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-58-2000x1333563.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-58-2000x1333-800x53356.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-58-2000x133372.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5-2000x1332-800x532548.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-5-2000x1332564.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5-2000x1332-800x53257.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-5-2000x133273.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-59-2000x1333-800x533549.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-59-2000x1333565.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-59-2000x1333-800x53358.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-59-2000x133374.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-60-2000x1333-800x533550.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-60-2000x1333566.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-60-2000x1333-800x53359.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-60-2000x133375.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-61-2000x1333-800x533551.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-61-2000x1333567.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-61-2000x1333-800x53360.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-61-2000x133376.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-62-2000x1333-800x533552.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-62-2000x1333568.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-62-2000x1333-800x53361.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-62-2000x133377.jpg",
                 "active": false
               }
             ],
@@ -7630,104 +7588,104 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-1-2000x1333-800x533569.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-1-2000x1333584.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-1-2000x1333-800x53378.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-1-2000x133390.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-2-2000x1333-800x533570.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-2-2000x1333585.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2-2000x1333-800x53379.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2-2000x133391.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-3-2000x1333-800x533571.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-3-2000x1333586.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-3-2000x1333-800x53380.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-3-2000x133392.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-4-2000x1333-800x533572.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-4-2000x1333587.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-4-2000x1333-800x53381.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-4-2000x133393.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1333-800x533573.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1333588.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1333-800x53382.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x133394.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1333-800x533574.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1333589.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1333-800x53383.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x133395.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2653web-2000x1333-800x533575.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2653web-2000x1333590.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2653web-2000x1333-800x53384.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2653web-2000x133396.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/16-2000x1333-800x533576.jpg",
-                "image": "@PROJECT_PATH@/assets/images/16-2000x1333591.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16-2000x1333-800x53385.jpg",
+                "image": "@PROJECT_PATH@/assets/images/16-2000x133397.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333493.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/10-1-2000x1333-800x533577.jpg",
-                "image": "@PROJECT_PATH@/assets/images/10-1-2000x1333592.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-1-2000x1333-800x53386.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10-1-2000x133398.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333593.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x133399.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/borl6085-2000x1333-800x533578.jpg",
-                "image": "@PROJECT_PATH@/assets/images/borl6085-2000x1333594.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/borl6085-2000x1333-800x53387.jpg",
+                "image": "@PROJECT_PATH@/assets/images/borl6085-2000x1333100.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-30-2000x1333-800x533579.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-30-2000x1333595.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-30-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-30-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-33-2000x1333-800x533580.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-33-2000x1333596.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-33-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-33-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-34-2000x1333-800x533581.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-34-2000x1333597.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-34-2000x1333-800x53388.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-34-2000x1333101.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-35-2000x1333-800x533582.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-35-2000x1333598.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-35-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-35-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-37-2000x1333-800x533583.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-37-2000x1333599.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-37-2000x1333-800x53389.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-37-2000x1333102.jpg",
                 "active": false
               },
               {
@@ -7739,7 +7697,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333495.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13334.jpg",
                 "active": true
               }
             ],
@@ -7938,7 +7896,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533-4.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x1333103.jpg",
                 "active": false
               },
               {
@@ -8485,7 +8443,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533-7.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333605.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x1333108.jpg",
                 "active": false
               },
               {
@@ -8503,7 +8461,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533-7.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333606.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x1333109.jpg",
                 "active": false
               },
               {
@@ -8556,26 +8514,26 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-64-2000x1333-800x533601.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-64-2000x1333607.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-64-2000x1333-800x533104.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-64-2000x1333110.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-65-2000x1333-800x533602.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-65-2000x1333608.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-65-2000x1333-800x533105.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-65-2000x1333111.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-66-2000x1333-800x533603.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-66-2000x1333609.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-66-2000x1333-800x533106.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-66-2000x1333112.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-67-2000x1333-800x533604.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-67-2000x1333610.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-67-2000x1333-800x533107.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-67-2000x1333113.jpg",
                 "active": true
               }
             ],
@@ -9713,8 +9671,8 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1500-800x600611.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x1500612.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1500-800x600114.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x1500115.jpg",
                 "active": false
               },
               {
