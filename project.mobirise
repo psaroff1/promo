@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "ФГБОУ ВДЦ",
-    "currentPage": "спорт.html",
+    "currentPage": "шдан.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 394,
+    "uniqCompNum": 397,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/128x85.png",
     "noImageResize": ""
@@ -945,8 +945,8 @@
           "_name": "image1",
           "_anchor": "image1-ap",
           "_params": {
-            "outside": false,
-            "bgColor": "#252525",
+            "outside": true,
+            "bgColor": "#ffffff",
             "showText": false
           },
           "media": {
@@ -965,7 +965,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "text": "Send"
         },
         {
           "_tags": [
@@ -993,7 +993,7 @@
             "overlayColor": "#222",
             "showTitle": true
           },
-          "title": "Оставить свой отзыв о выстаки",
+          "title": "Оставить свой отзыв о выставке",
           "form": {
             "action": "dvgguru@mail.ru",
             "alerts": {
@@ -1372,7 +1372,7 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/img-51-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-51-2000x1333.jpg",
-                "active": true
+                "active": false
               },
               {
                 "caption": "Type caption here",
@@ -1408,7 +1408,7 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/img-6942-edit-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-6942-edit-2000x1333.jpg",
-                "active": false
+                "active": true
               }
             ],
             "showText": false,
@@ -1752,8 +1752,8 @@
           },
           "_anchor": "features1-3w",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "file:///Users/denis/Library/Application%20Support/Mobirise.com/Mobirise/projectData/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%201xxxhdpi-2000x509.png",
@@ -1830,7 +1830,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x359312.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x359641.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "Подворье.html",
@@ -1848,7 +1848,7 @@
               "size": 0
             }
           },
-          "title3": "<br>Русское подворье",
+          "title3": "<span style=\"line-height: 1.1em;\">Русское подворье</span><br>",
           "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"флотилия.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "media4": {
@@ -1878,7 +1878,7 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-600x834.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x362.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "галактика.html",
@@ -1896,7 +1896,7 @@
               "size": 0
             }
           },
-          "title5": "<div>&nbsp;</div><div><br></div>",
+          "title5": "<div>Дружина «Галактика»&nbsp;</div><div><br></div>",
           "caption5": "",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
@@ -2037,7 +2037,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 31
+        "order": 29
       },
       "components": [
         {
@@ -2303,7 +2303,7 @@
           "_anchor": "content5-5b",
           "_params": {
             "showCaption": "noCaption",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
@@ -3033,7 +3033,7 @@
           "_params": {
             "showCaption": "noCaption",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -3052,9 +3052,9 @@
             "showMeta": false,
             "darkBackground": true
           },
-          "title": "Школа ВДЦ «Океан»",
+          "title": "Школа ВДЦ «Океан»<br>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>&nbsp; &nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Океанская школа – это школа активного познания обучающихся без домашнего задания. Разнообразие форм и видов деятельности на уроках, содержание метапредметных учебных модулей, учебно-тренировочные сессии, работа проблемных лабораторий и дискуссионных площадок позволяют обучающимся выстраивать индивидуальные образовательные траектории. По окончании учебных занятий учащиеся получают «Ведомость оценки знаний» и Портфолио учебных достижений.\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; Педагогический коллектив реализует государственные программы основного общего и среднего общего образования. Разрабатываемые и применяемые образовательные методики максимально направлены на поддержку каждого учащегося в освоении ФГОС по основным предметам. В соответствии с Уставом ФГБОУ ВДЦ «Океан» и осуществляемыми видами деятельности занятия по «Искусству», «Технологии», «Основам безопасности жизнедеятельности», «Физической культуре» включены в расписание дополнительного образования детей.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Одним из приоритетных направлений образовательного процесса является организация и проведение учебно-исследовательской и проектной деятельности обучающихся 6–11 классов.\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;В рамках Программы развития ФГБОУ ВДЦ «Океан» до 2020 года создана учебно-исследовательская лаборатория, в которой проводятся междисциплинарные практикумы по естествознанию. Лаборатория языковых исследований предназначена для проведения всех видов учебной работы: интерактивных лекций, семинаров, практических и лабораторных работ по всему спектру преподаваемых дисциплин гуманитарного направления.\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Учебные кабинеты школы оснащены современными техническими средствами (интерактивными электронными досками, проекторами, компьютерами, физической и химической лабораториями), разнообразными дидактическими материалами, учебниками, дополнительной справочной литературой. В кабинетах иностранных языков установлено современное лингафонное оборудование. </p><p>\n&nbsp;&nbsp;&nbsp;&nbsp;Всё это помогает сделать учебный процесс интенсивным и разнообразным, а учёбу – интересной, увлекательной и радостной!\n</p>",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; Океанская школа – это школа активного познания обучающихся без домашнего задания. Разнообразие форм и видов деятельности на уроках, содержание метапредметных учебных модулей, учебно-тренировочные сессии, работа проблемных лабораторий и дискуссионных площадок позволяют обучающимся выстраивать индивидуальные образовательные траектории. По окончании учебных занятий учащиеся получают «Ведомость оценки знаний» и Портфолио учебных достижений.</p><p>&nbsp; &nbsp; &nbsp; &nbsp; Педагогический коллектив реализует государственные программы основного общего и среднего общего образования. Разрабатываемые и применяемые образовательные методики максимально направлены на поддержку каждого учащегося в освоении ФГОС по основным предметам. В соответствии с Уставом ФГБОУ ВДЦ «Океан» и осуществляемыми видами деятельности занятия по «Искусству», «Технологии», «Основам безопасности жизнедеятельности», «Физической культуре» включены в расписание дополнительного образования детей.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Одним из приоритетных направлений образовательного процесса является организация и проведение учебно-исследовательской и проектной деятельности обучающихся 6–11 классов.\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;В рамках Программы развития ФГБОУ ВДЦ «Океан» до 2020 года создана учебно-исследовательская лаборатория, в которой проводятся междисциплинарные практикумы по естествознанию. Лаборатория языковых исследований предназначена для проведения всех видов учебной работы: интерактивных лекций, семинаров, практических и лабораторных работ по всему спектру преподаваемых дисциплин гуманитарного направления.\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Учебные кабинеты школы оснащены современными техническими средствами (интерактивными электронными досками, проекторами, компьютерами, физической и химической лабораториями), разнообразными дидактическими материалами, учебниками, дополнительной справочной литературой. В кабинетах иностранных языков установлено современное лингафонное оборудование. </p><p>\n&nbsp;&nbsp;&nbsp;&nbsp;Всё это помогает сделать учебный процесс интенсивным и разнообразным, а учёбу – интересной, увлекательной и радостной!\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -3292,7 +3292,7 @@
           "_params": {
             "showCaption": "noCaption",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -3625,7 +3625,7 @@
           "_params": {
             "showCaption": "noCaption",
             "paddingTop": 3,
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -3666,7 +3666,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533-12.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333313.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x1333642.jpg",
                 "active": false
               },
               {
@@ -3772,95 +3772,6 @@
           "text1": "<strong><br></strong><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
           "text2": "<strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "images": [
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-24-2000x1333-800x533-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-24-2000x1333-1.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-16-2000x1333-800x533-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-16-2000x1333-1.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-25-2000x1333-800x533-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-25-2000x1333-1.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1396-800x558-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1396-1.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/okean-2000x1452-800x580-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/okean-2000x1452-1.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-26-2000x1333-800x533-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-26-2000x1333-1.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-27-2000x1333-800x533-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-27-2000x1333-1.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-28-2000x1333-800x533-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-28-2000x1333-1.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-29-2000x1333-800x533-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-29-2000x1333-1.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1385-800x554-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1385-1.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1432-800x572-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1432-1.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1373-800x549-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1373-1.jpg",
-                "active": true
-              }
-            ],
-            "showText": false,
-            "fullWidth": false,
-            "noGutter": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery2-a6",
-          "articleLayout": true
         }
       ]
     },
@@ -3868,7 +3779,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 27
+        "order": 25
       },
       "components": [
         {
@@ -4016,7 +3927,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 28
+        "order": 26
       },
       "components": [
         {
@@ -4164,7 +4075,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 29
+        "order": 27
       },
       "components": [
         {
@@ -4312,7 +4223,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 30
+        "order": 28
       },
       "components": [
         {
@@ -4493,7 +4404,7 @@
           "_params": {
             "showCaption": "noCaption",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -4701,7 +4612,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 32
+        "order": 30
       },
       "components": [
         {
@@ -4935,7 +4846,7 @@
           "_params": {
             "showCaption": "noCaption",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -5033,110 +4944,110 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-5-2000x1333-800x533314.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-5-2000x1333332.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-5-2000x1333-800x533643.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-5-2000x1333661.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-9034-edit-2000x1333-800x533315.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-9034-edit-2000x1333333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9034-edit-2000x1333-800x533644.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-9034-edit-2000x1333662.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/2020programm-2000x1333-800x533316.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2020programm-2000x1333334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2020programm-2000x1333-800x533645.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020programm-2000x1333663.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/biblioteka-2000x1333-800x533317.jpg",
-                "image": "@PROJECT_PATH@/assets/images/biblioteka-2000x1333335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/biblioteka-2000x1333-800x533646.jpg",
+                "image": "@PROJECT_PATH@/assets/images/biblioteka-2000x1333664.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0895-2000x1333-800x533318.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-0895-2000x1333336.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0895-2000x1333-800x533647.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0895-2000x1333665.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x1333-800x533319.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-3-2000x1333337.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x1333-800x533648.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3-2000x1333666.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9642-2000x1333-800x533320.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-9642-2000x1333338.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9642-2000x1333-800x533649.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-9642-2000x1333667.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-4-2000x1333-800x533321.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1333339.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4-2000x1333-800x533650.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1333668.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-48-2000x1333-800x533322.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-48-2000x1333340.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-48-2000x1333-800x533651.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-48-2000x1333669.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-49-2000x1333-800x533323.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-49-2000x1333341.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-49-2000x1333-800x533652.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-49-2000x1333670.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-50-2000x1333-800x533324.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-50-2000x1333342.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-50-2000x1333-800x533653.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-50-2000x1333671.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-51-2000x1333-800x533325.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-51-2000x1333343.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-51-2000x1333-800x533654.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-51-2000x1333672.jpg",
                 "active": true
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-52-2000x1333-800x533326.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-52-2000x1333344.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-52-2000x1333-800x533655.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-52-2000x1333673.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-54-2000x1333-800x533327.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-54-2000x1333345.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-54-2000x1333-800x533656.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-54-2000x1333674.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-55-2000x1333-800x533328.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-55-2000x1333346.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-55-2000x1333-800x533657.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-55-2000x1333675.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-4-2000x1332-800x532329.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1332347.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4-2000x1332-800x532658.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1332676.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-56-2000x1333-800x533330.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-56-2000x1333348.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-56-2000x1333-800x533659.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-56-2000x1333677.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6942-edit-2000x1333-800x533331.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-6942-edit-2000x1333349.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6942-edit-2000x1333-800x533660.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6942-edit-2000x1333678.jpg",
                 "active": false
               }
             ],
@@ -5774,14 +5685,14 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-10-2000x1333-800x533350.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-10-2000x1333365.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-10-2000x1333-800x533679.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-10-2000x1333694.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9-2000x1333-800x533351.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-9-2000x1333366.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9-2000x1333-800x533680.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-9-2000x1333695.jpg",
                 "active": false
               },
               {
@@ -5792,80 +5703,80 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-63-2000x1333-800x533352.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-63-2000x1333367.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-63-2000x1333-800x533681.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-63-2000x1333696.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1332-800x532353.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1332368.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1332-800x532682.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1332697.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6-2000x1333-800x533354.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-6-2000x1333369.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6-2000x1333-800x533683.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6-2000x1333698.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7-2000x1333-800x533355.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-7-2000x1333370.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7-2000x1333-800x533684.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7-2000x1333699.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/t-mg-2000x1333-800x533356.jpg",
-                "image": "@PROJECT_PATH@/assets/images/t-mg-2000x1333371.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t-mg-2000x1333-800x533685.jpg",
+                "image": "@PROJECT_PATH@/assets/images/t-mg-2000x1333700.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-17-2000x1333-800x533357.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-17-2000x1333372.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-17-2000x1333-800x533686.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-17-2000x1333701.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-57-2000x1333-800x533358.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-57-2000x1333373.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-57-2000x1333-800x533687.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-57-2000x1333702.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-58-2000x1333-800x533359.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-58-2000x1333374.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-58-2000x1333-800x533688.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-58-2000x1333703.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5-2000x1332-800x532360.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-5-2000x1332375.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5-2000x1332-800x532689.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-5-2000x1332704.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-59-2000x1333-800x533361.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-59-2000x1333376.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-59-2000x1333-800x533690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-59-2000x1333705.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-60-2000x1333-800x533362.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-60-2000x1333377.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-60-2000x1333-800x533691.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-60-2000x1333706.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-61-2000x1333-800x533363.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-61-2000x1333378.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-61-2000x1333-800x533692.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-61-2000x1333707.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-62-2000x1333-800x533364.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-62-2000x1333379.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-62-2000x1333-800x533693.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-62-2000x1333708.jpg",
                 "active": false
               }
             ],
@@ -6189,7 +6100,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 33
+        "order": 31
       },
       "components": [
         {
@@ -6316,20 +6227,20 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/1-1-2000x1097-800x438380.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-1-2000x1097383.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1-2000x1097-800x438709.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-1-2000x1097712.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1110-800x444381.jpg",
-                "image": "@PROJECT_PATH@/assets/images/8-2000x1110384.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1110-800x444710.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1110713.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/060000-2000x1385-800x554382.jpg",
-                "image": "@PROJECT_PATH@/assets/images/060000-2000x1385385.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/060000-2000x1385-800x554711.jpg",
+                "image": "@PROJECT_PATH@/assets/images/060000-2000x1385714.jpg",
                 "active": true
               }
             ],
@@ -6932,13 +6843,15 @@
             },
             ".mbr-section-title .mbr-header__text": {
               "color": "#27aae0",
-              "font-size": "25px"
+              "font-size": "25px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
             }
           },
           "_anchor": "features1-6j",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%201xxxhdpi-2000x509.png",
@@ -7123,12 +7036,14 @@
             },
             ".mbr-header__subtext": {
               "color": "#27aae0",
-              "font-size": "25px"
+              "font-size": "25px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
             }
           },
           "_anchor": "features1-6k",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -7152,7 +7067,7 @@
           },
           "headerAlign": "left",
           "header": "",
-          "subheader": "Образовательная деятельность",
+          "subheader": "Educational activities",
           "media1": {
             "image": {
               "active": true,
@@ -7303,8 +7218,8 @@
           "_name": "image1",
           "_anchor": "image1-av",
           "_params": {
-            "outside": false,
-            "bgColor": "#252525",
+            "outside": true,
+            "bgColor": "#ffffff",
             "showText": false
           },
           "media": {
@@ -7323,7 +7238,12 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "text": "",
+          "_styles": {
+            "SMALL": {
+              "color": "#27aae0"
+            }
+          }
         },
         {
           "_tags": [
@@ -7451,7 +7371,7 @@
           "title": "The Director of All-Russian Children Center “Okean” Andrey Basilevsky&nbsp;",
           "meta": "By John Smith posted July 30, 2015",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"Вопрос.html\" data-toolbar=\"-mbrBtnMove\">Задать вопрос директору</a>  "
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\" вопросан.html\" data-toolbar=\"-mbrBtnMove\">Set a question to director</a>  "
         },
         {
           "_tags": [
@@ -7662,26 +7582,26 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-18-2000x1333-800x533386.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-18-2000x1333399.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-18-2000x1333-800x533715.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-18-2000x1333728.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533-11.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x1333729.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1333-800x533387.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-img-2000x1333401.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1333-800x533716.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-img-2000x1333730.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1332-800x532-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1332402.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x1332731.jpg",
                 "active": false
               },
               {
@@ -7698,14 +7618,14 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-72-2000x1333-800x533388.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-72-2000x1333403.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-72-2000x1333-800x533717.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-72-2000x1333732.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-73-2000x1333-800x533389.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-73-2000x1333404.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-73-2000x1333-800x533718.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-73-2000x1333733.jpg",
                 "active": false
               },
               {
@@ -7722,32 +7642,32 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-74-2000x1333-800x533390.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-74-2000x1333405.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-74-2000x1333-800x533719.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-74-2000x1333734.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-75-2000x1333-800x533391.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-75-2000x1333406.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-75-2000x1333-800x533720.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-75-2000x1333735.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-76-2000x1333-800x533392.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-76-2000x1333407.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-76-2000x1333-800x533721.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-76-2000x1333736.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-77-2000x1333-800x533393.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-77-2000x1333408.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-77-2000x1333-800x533722.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-77-2000x1333737.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-78-2000x1333-800x533394.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-78-2000x1333409.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-78-2000x1333-800x533723.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-78-2000x1333738.jpg",
                 "active": false
               },
               {
@@ -7758,14 +7678,14 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-79-2000x1333-800x533395.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-79-2000x1333410.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-79-2000x1333-800x533724.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-79-2000x1333739.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-80-2000x1333-800x533396.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-80-2000x1333411.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-80-2000x1333-800x533725.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-80-2000x1333740.jpg",
                 "active": false
               },
               {
@@ -7776,8 +7696,8 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-81-2000x1333-800x533397.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-81-2000x1333412.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-81-2000x1333-800x533726.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-81-2000x1333741.jpg",
                 "active": false
               },
               {
@@ -7788,8 +7708,8 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/123-7-2000x1000-800x400398.jpg",
-                "image": "@PROJECT_PATH@/assets/images/123-7-2000x1000413.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/123-7-2000x1000-800x400727.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123-7-2000x1000742.jpg",
                 "active": false
               },
               {
@@ -7860,169 +7780,6 @@
           "text1": "<strong><br></strong><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
           "text2": "<strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
           "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "images": [
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-18-2000x1333-800x533386.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-18-2000x1333399.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533-11.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333400.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1333-800x533387.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-img-2000x1333401.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/2000x1332-800x532-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1332402.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-38-2000x1333-800x533-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-38-2000x1333-1.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-71-2000x1333-800x533-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-71-2000x1333-2.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-72-2000x1333-800x533388.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-72-2000x1333403.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-73-2000x1333-800x533389.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-73-2000x1333404.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-34-2000x1333-800x533-3.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-34-2000x1333-3.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-35-2000x1333-800x533-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-35-2000x1333-1.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-74-2000x1333-800x533390.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-74-2000x1333405.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-75-2000x1333-800x533391.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-75-2000x1333406.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-76-2000x1333-800x533392.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-76-2000x1333407.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-77-2000x1333-800x533393.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-77-2000x1333408.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-78-2000x1333-800x533394.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-78-2000x1333409.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-37-2000x1333-800x533-3.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-37-2000x1333-3.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-79-2000x1333-800x533395.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-79-2000x1333410.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-80-2000x1333-800x533396.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-80-2000x1333411.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-39-2000x1333-800x533-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-39-2000x1333-2.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-81-2000x1333-800x533397.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-81-2000x1333412.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/123-36-2000x1000-800x400-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/123-36-2000x1000-1.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/123-7-2000x1000-800x400398.jpg",
-                "image": "@PROJECT_PATH@/assets/images/123-7-2000x1000413.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/123-13-2000x1000-800x400-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/123-13-2000x1000-1.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/123-28-2000x1000-800x400-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/123-28-2000x1000-1.jpg",
-                "active": true
-              }
-            ],
-            "showText": false,
-            "bgColor": "#4c6972",
-            "fullWidth": false,
-            "noGutter": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-ak",
-          "articleLayout": false
         }
       ]
     },
@@ -8123,7 +7880,7 @@
           "_params": {
             "showCaption": "noCaption",
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
             "showButton": false,
@@ -8164,7 +7921,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1333-800x533-9.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-2000x1333313.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x1333642.jpg",
                 "active": false
               },
               {
@@ -8212,7 +7969,7 @@
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/123-35-2000x1000-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/123-35-2000x1000414.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123-35-2000x1000743.jpg",
                 "active": false
               }
             ],
@@ -8298,8 +8055,8 @@
           },
           "_anchor": "features1-ar",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "file:///Users/denis/Library/Application%20Support/Mobirise.com/Mobirise/projectData/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%201xxxhdpi-2000x509.png",
@@ -8326,7 +8083,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-600x357415.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-600x357744.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "парус2020.html",
@@ -8352,7 +8109,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x359416.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x359745.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "этно.html",
@@ -8376,7 +8133,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x359417.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x359746.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "Подворье.html",
@@ -8400,7 +8157,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-600x365418.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-600x365747.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "ккз2020.html",
@@ -8424,10 +8181,10 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-600x834419.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x362.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "галактика.html",
+              "link": "галан.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -8442,7 +8199,7 @@
               "size": 0
             }
           },
-          "title5": "<div>&nbsp;</div><div><br></div>",
+          "title5": "<div>&nbsp;Housing “Galaxy”</div><div><br></div>",
           "caption5": "",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
@@ -8974,9 +8731,9 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-8-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-8-2000x1333.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-2000x1332.jpg",
+                "active": true
               },
               {
                 "caption": "Type caption here",
@@ -9018,7 +8775,7 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-13-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333.jpg",
-                "active": true
+                "active": false
               }
             ],
             "showText": false,
@@ -9083,7 +8840,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 34
+        "order": 32
       },
       "components": [
         {
@@ -9547,7 +9304,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 25
+        "order": 24
       },
       "components": [
         {
@@ -9788,7 +9545,7 @@
       "settings": {
         "title": "ФГБОУ ВДЦ \"Океан\"",
         "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
-        "order": 35
+        "order": 33
       },
       "components": [
         {
@@ -9915,8 +9672,8 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1500-800x600420.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x1500421.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1500-800x600748.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x1500749.jpg",
                 "active": false
               },
               {
@@ -9991,6 +9748,180 @@
               "width": 265,
               "active": true,
               "link": "Океан.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><br></strong><b>Адрес&nbsp;</b><br>Россия, 690108, Приморский край, г. Владивосток, ул. Артековская, дом 10<br>Address<br><span style=\"line-height: 1.7em;\">St. Artekovskaya, 10, Vladivostok, 690108, Russia , Primorski</span><br>",
+          "text2": "<strong><br></strong>Контакты<br>E-mail:\n<br>info@okean.org <br>press@okean.org<br>+7 (423) 230-41-60 – приёмная, <br>+7 (423) 230-41-83 – приёмная зам. директора по образовательной деятельности.<br>Contaccts<br>+7 (423) 230-41-60 – reception <br>+7 (423) 230-41-83 – reception of deputy director for educational activities<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><p><br></p><p><br></p>"
+        }
+      ]
+    },
+    " вопросан.html": {
+      "settings": {
+        "title": "ФГБОУ ВДЦ \"Океан\"",
+        "meta_descr": "ФГБОУ ВДЦ \"Океан\"",
+        "order": 34
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#27aae0"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "20px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "20px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-ay",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#27aae0",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-192x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Океан.html",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://okean.org",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"Океан.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океан.html\">Русский</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Океанан.html\">English</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#27aae0"
+            }
+          },
+          "_anchor": "form1-az",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Задать вопрос",
+          "form": {
+            "action": "dvgguru@mail.ru",
+            "alerts": {
+              "success": "Спасибо за вопрос"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Your question"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#27aae0",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "contacts1-b0",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-265x176.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false

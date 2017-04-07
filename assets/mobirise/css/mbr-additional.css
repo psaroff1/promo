@@ -889,6 +889,8 @@
 
 
 
+
+
 #ext_menu-6h .mbr-brand__name {
   font-size: 16px;
 }
@@ -916,6 +918,7 @@
 #features1-6j .mbr-section-title .mbr-header__text {
   color: #27aae0;
   font-size: 25px;
+  font-family: 'Roboto Slab', serif;
 }
 #features1-6k .mbr-section__col .mbr-header__text {
   color: #27aae0;
@@ -929,6 +932,10 @@
 #features1-6k .mbr-header__subtext {
   color: #27aae0;
   font-size: 25px;
+  font-family: 'Roboto Slab', serif;
+}
+#image1-av SMALL {
+  color: #27aae0;
 }
 #form1-6m .mbr-header__text {
   color: #27aae0;
@@ -1318,6 +1325,35 @@
   color: #27aae0;
 }
 #contacts1-7h P {
+  color: #27aae0;
+  font-family: 'Roboto Slab', serif;
+  font-size: 14px;
+}
+
+
+#ext_menu-ay .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-ay.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-ay .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-ay .mbr-navbar__hamburger {
+  color: #27aae0;
+}
+#ext_menu-ay .mbr-navbar__items a {
+  font-size: 20px;
+  font-family: 'Roboto Slab', serif;
+}
+#ext_menu-ay .mbr-brand__name a {
+  font-size: 20px;
+}
+#form1-az .mbr-header__text {
+  color: #27aae0;
+}
+#contacts1-b0 P {
   color: #27aae0;
   font-family: 'Roboto Slab', serif;
   font-size: 14px;
