@@ -847,6 +847,7 @@
   font-size: 14px;
 }
 
+
 #ext_menu-69 .mbr-brand__name {
   font-size: 16px;
 }
@@ -880,8 +881,10 @@
 #content5-6a .mbr-article P {
   color: #27aae0;
 }
-#contacts2-94 P {
+#contacts1-7x P {
   color: #27aae0;
+  font-family: 'Roboto Slab', serif;
+  font-size: 14px;
 }
 
 
